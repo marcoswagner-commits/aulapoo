@@ -25,7 +25,8 @@ LTS é uma variação de um software cujo principal objetivo é proporcionar est
 - [x]  Conceitos aprofundados
 
 [![Aulas no Youtube](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/cb3e2ea9547f9ddc831277f07919c3e78451eb92/yt-icon.png)](https://www.youtube.com/channel/UCfO-aJxKLqau0TnL0AfNAvA)
-####  Os vídeos abaixo mostram a execução destes dois primeiros passos
+
+####  Os vídeos abaixo mostram os primeiros conceitos sobre O.O.
 
 🥇:[![aula02_mod_1](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/b29579d6b8583f49c9b1a044288abcb788643119/documentos/Capa_aula08.png)](https://www.youtube.com/watch?v=kwyntQNaGn0)
 
