@@ -9,7 +9,7 @@
 ## Instalação da Disciplina
 ### Materiais
 - [Plano de Ensino](Plano_Ensino_POO_Remoto_2021.pdf)
-- [Planejamento do Semestre](Plano_Ensino_POO_Remoto_2021.pdf)
+- [Planejamento do Semestre](Planejamento do Semestre_Remoto_2021_POO.pdf)
 - [Planejamento do Semestre](Planejamento do Semestre_Remoto_2021_POO.pdf)
 
 
