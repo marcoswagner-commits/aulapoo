@@ -4,7 +4,7 @@
 ## 1 - Apresentação da disciplina: Plano de Ensino – Conteúdos – Metodologia – Avaliações
 	* Vide Plano de Ensino; Planejamento da Disciplina; documento Conteúdos
 
-- [Conteúdo do Curso](documentos/Conteudo_POO.pdf)
+- [Conteúdo do Curso](Conteudo_POO.pdf)
 
 ### 1.1 Conteúdos
 
