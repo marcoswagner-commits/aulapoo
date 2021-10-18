@@ -69,8 +69,8 @@ Github – http://www.github.com
 - [Trabalho 1 - Lista de Exercícios](https://github.com/marcoswagner-commits)
 
 ### Aulas
-- [Roteiro específico da Aula - 19/10/2021](https://github.com/marcoswagner-commits/aulapoo/documentos/blob/main/aula1.md)
-- [Roteiro específico da Aula - 21/10/2021](https://github.com/marcoswagner-commits/aulapoo/documentos/blob/main/aula2.md)
+- [Roteiro específico da Aula - 19/10/2021](aula01.md)
+- [Roteiro específico da Aula - 21/10/2021](aula02.md)
 
 - - [Roteiro específico da Aula - 13/07/2021] Apresentação de Trabalhos
 - - [Roteiro específico da Aula - 15/07/2021] Projeto de Prática em CG
