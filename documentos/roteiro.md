@@ -12,12 +12,12 @@
 
 ### 1.2 Metodologia
 
-1.2.1. Conceito vs Prática vs Formalismo
+1.2.1. Conceito vs Prática vs Conceito
 
-1.2.2. Implementação comparativa e incremental: clássicos => atuais
+1.2.2. Implementação comparativa e incremental
 
 ### 1.3 Avaliações
-- Trabalho 1 - Lista de Exercícios
+- Trabalho 1 - (Kahoot - Lista de Exercícios)
 - Trabalho 2 - Interface Gráfica
 - Trabalho 3 - Jogo de Xadrez
 - Trabalho 4 - Padrões de Projetos 
@@ -34,11 +34,12 @@ Github – http://www.github.com
 
 ## 3 – Síntese do Curso
 
-1. Conceitos e Históricos 
+1. Conceitos e Definições 
 
 2. Implementar os algoritmos que permitem a compreensão da Orientação a Objetos
 
 3. Fazer uso de padrões de projeto
+
 
 ## 4 - Conteúdo do Curso
 - Introdução
