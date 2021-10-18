@@ -19,7 +19,7 @@ LTS é uma variação de um software cujo principal objetivo é proporcionar est
 - [IDE NetBeans](https://www.apache.org/dyn/closer.cgi/netbeans/netbeans/12.0/Apache-NetBeans-12.0-bin-macosx.dmg)
 
 ### Conteúdo
-- [Conceitos de Programação Orientada a Objetos]()
+- [Conceitos de Programação Orientada a Objetos](Conteudo_POO.pdf)
 
 
 ### Passo 1: Disciplina: Plano de Ensino - Planejamento - Aulas - GitHub
