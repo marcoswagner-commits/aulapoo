@@ -8,9 +8,9 @@
 
 ## Instalação da Disciplina
 ### Materiais
-[![Plano de Ensino]()]
-[![Planejamento do Semestre]()]
-[![Plano de Ensino]()]
+[Plano de Ensino](Planejamento do Semestre_Remoto_2021_POO.pdf)
+[Planejamento do Semestre]()
+[Plano de Ensino]()
 
 ### Passo 1: Disciplina: Plano de Ensino - Planejamento - Aulas - GitHub
 - [x]  Plano de Ensino
