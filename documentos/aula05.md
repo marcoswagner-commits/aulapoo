@@ -2,7 +2,7 @@
 
 > Aula 04/11/2021
 > 
->  * Orientação a Objetos - Triangulo Retângulo *
+>  * Orientação a Objetos - Estrutura de Classes e Instanciação de Objetos. Exercício 3 – “Triangulo” *
 
 ## Atividades da aula - roteiro
 - Abstração
@@ -23,7 +23,7 @@
 - [x]  Atributos - Métodos
 - [x]  Construtores
 - [x]  Gets/Sets/ToString
-- [x]  Enviar para o GitHub (Circulo) 
+- [x]  Enviar para o GitHub (Triangulo) 
 
 [![Aulas no Youtube](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/cb3e2ea9547f9ddc831277f07919c3e78451eb92/yt-icon.png)](https://www.youtube.com/channel/UCfO-aJxKLqau0TnL0AfNAvA)
 
@@ -31,7 +31,5 @@
 
 🥇:[![material complementar aula05](Capa_Videos_POO.png)](https://youtu.be/pN79JmBclWo)
 -
-🥈:[![material complementar aula04](Capa_Videos_POO.png)](https://youtu.be/WKDO0SiU79Q)
--
-🥉:[![material complementar aula04](Capa_Videos_POO.png)](https://youtu.be/hzQx4ig8HMU)
+
 
