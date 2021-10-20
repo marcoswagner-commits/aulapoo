@@ -23,6 +23,7 @@
 - [x]  Atributos - Métodos
 - [x]  Construtores
 - [x]  Gets/Sets/ToString
+- [x]  Enviar para o GitHub (Retangulo) 
 
 [![Aulas no Youtube](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/cb3e2ea9547f9ddc831277f07919c3e78451eb92/yt-icon.png)](https://www.youtube.com/channel/UCfO-aJxKLqau0TnL0AfNAvA)
 
@@ -32,5 +33,5 @@
 -
 🥈:[![material complementar aula02](Capa_Videos_POO.png)](https://youtu.be/esuAFoRThM0)
 -
-
+🥉:[![material complementar aula02](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=HlmIEsWJK68)
 
