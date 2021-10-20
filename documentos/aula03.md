@@ -17,7 +17,7 @@
 - [Conceitos de Programação Orientada a Objetos](Conteudo_POO.pdf)
 
 
-### Passo 1: Disciplina: Plano de Ensino - Planejamento - Aulas - GitHub
+### Passo 1: Criação da Aplicação
 - [x]  Criar um Projeto
 - [x]  Criar a classe 
 - [x]  Atributos - Métodos
