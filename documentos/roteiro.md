@@ -74,6 +74,8 @@ Github – http://www.github.com
 ### Aulas
 - [Roteiro específico da Aula - 19/10/2021](aula01.md)
 - [Roteiro específico da Aula - 21/10/2021](aula02.md)
+- [Roteiro específico da Aula - 26/10/2021](aula03.md)
+- [Roteiro específico da Aula - 28/10/2021](aula04.md)
 - - [Roteiro específico da Aula - 23/11/2021] Apresentação de Trabalhos (Kahoot e Lista de Exercícios)
 - - [Roteiro específico da Aula - 09/12/2021] Apresentação de Trabalhos (Interface Gráfica)
 - - [Roteiro específico da Aula - 14/12/2021] Projeto de Prática em CG
