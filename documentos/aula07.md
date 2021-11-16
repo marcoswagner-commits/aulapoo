@@ -24,7 +24,7 @@
 - ![Captura de Tela 2021-11-11 às 09 29 34](https://user-images.githubusercontent.com/81576640/141298385-5b9046e2-1ee0-4241-a404-02d17ba3c437.png)
 - Triângulo Escaleno:
 - ![Captura de Tela 2021-11-11 às 09 35 17](https://user-images.githubusercontent.com/81576640/141299049-ddbbbc65-f493-4d71-a0c2-531639d02388.png)
-- Triângulo Isosceles:
+- Triângulo Isósceles:
 - ![Captura de Tela 2021-11-11 às 09 34 28](https://user-images.githubusercontent.com/81576640/141299053-7e2184d1-adbe-4c06-854b-5f647e5c9923.png)
 
 
