@@ -27,6 +27,12 @@
 - [x]  Gets/Sets/ToString
 - [x]  Enviar para o GitHub (clientes2) 
 
+### Exemplos clássicos
+#### Agregação - Venda (Comprador e Vendedor)
+#### Composição - Banco (ContaCorrente e Poupança)
+#### Associação - Carro (Pneu)
+
+
 [![Aulas no Youtube](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/cb3e2ea9547f9ddc831277f07919c3e78451eb92/yt-icon.png)](https://www.youtube.com/channel/UCfO-aJxKLqau0TnL0AfNAvA)
 
 ####  Os vídeos abaixo mostram a implementação do programa
