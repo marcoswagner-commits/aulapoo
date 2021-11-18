@@ -25,7 +25,7 @@
 - [x]  Atributos - Métodos
 - [x]  Construtores
 - [x]  Gets/Sets/ToString
-- [x]  Enviar para o GitHub (clientes2) 
+- [x]  Enviar para o GitHub (relacoes) 
 
 ### Exemplos clássicos
 #### Agregação - Venda (Comprador e Vendedor)
