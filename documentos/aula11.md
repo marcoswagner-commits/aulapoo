@@ -41,7 +41,7 @@
 
 🥇:[![material complementar aula11](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=d8ECAzQYcYo)
 -
-🥈:[![material complementar aula09](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=2Fh_v8Dc4X0)
+🥈:[![material complementar aula09](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=DUw-Wb8WDZI)
 -
 🥉:[![material complementar aula09](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=T6Oa4BDSDcY)
 
