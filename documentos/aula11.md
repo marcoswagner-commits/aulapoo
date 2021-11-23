@@ -32,6 +32,9 @@
    - Pacotes AWT e Swing
    - Conceitos de Frame (JFrame)
    - Janelas (Título - Tamanho - Posição - Fechamento - Visibilidade)
+- [ ]  Primeiros Componentes
+   - Desenhando/Projetando a Janela (EdrawMax)
+   - Principais componentes (Painéis - Rótulos - Campos - Botões)
 - [x]  Enviar para o GitHub (Clientes Interfaces1) 
 
 
