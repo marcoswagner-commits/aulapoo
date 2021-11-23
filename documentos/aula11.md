@@ -43,6 +43,6 @@
 -
 🥈:[![material complementar aula09](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=DUw-Wb8WDZI)
 -
-🥉:[![material complementar aula09](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=T6Oa4BDSDcY)
+🥉:[![material complementar aula09](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=lyX6SFPUPN0)
 
 
