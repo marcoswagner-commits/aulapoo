@@ -9,7 +9,7 @@
 - Classes
 - Objetos
 - Herança
-- Componentes Gráficos (Cadastro Completo)
+- Componentes Gráficos (Cadastro Completo - Uso de um ORM)
 
 ## Exemplo de Aplicação 
 ![Captura de Tela 2021-11-24 às 09 29 53](https://user-images.githubusercontent.com/81576640/143238724-3b06e700-7839-4660-a71e-bfea8b3060e1.png)
@@ -28,6 +28,9 @@
 - [ ]  Camada => DAO - Data Access Object
 - [ ]  Especificação => JPA (Java Persistence Application)
 - [ ]  Conceito => ORM (Object-Relational Mapping)  
+- [ ]  Criar uma Base de Dados - Database (ConClientes)
+- [ ]  Criar uma Tabela - Table (cliente)
+- [ ]  Estruturar o projeto em pastas (DAO - MODEL - VIEW - EXCEPTIONS)
 - [x]  Enviar para o GitHub (ConClientes) 
 
 
@@ -37,7 +40,7 @@
 
 🥇:[![material complementar aula14](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=wj8PfC--6ME)
 -
-🥈:[![material complementar aula14](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=8HOAC5bwOMc)
+🥈:[![material complementar aula14](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=j49St1FJW2w)
 -
 🥈:[![material complementar aula14](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=DJU-Z8cjYjw)
 
