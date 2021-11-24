@@ -33,9 +33,11 @@
 
 ####  Os vídeos abaixo mostram a implementação do programa
 
-🥇:[![material complementar aula11](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=2txDxQnKEAA)
+🥇:[![material complementar aula14](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=2txDxQnKEAA)
 -
-🥈:[![material complementar aula09](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=8HOAC5bwOMc)
+🥈:[![material complementar aula14](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=8HOAC5bwOMc)
+-
+🥈:[![material complementar aula14](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=DJU-Z8cjYjw)
 
 
 
