@@ -12,7 +12,8 @@
 - Componentes Gráficos (Cadastro Completo)
 
 ## Exemplo de Aplicação 
-![Captura de Tela 2021-11-23 às 19 58 52](https://user-images.githubusercontent.com/81576640/143142237-96728065-e5b2-4acc-9cc4-3151f84ef507.png)
+![Captura de Tela 2021-11-24 às 09 29 53](https://user-images.githubusercontent.com/81576640/143238724-3b06e700-7839-4660-a71e-bfea8b3060e1.png)
+
 
 
 
