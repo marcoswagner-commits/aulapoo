@@ -30,6 +30,7 @@
 - [ ]  Conceito => ORM (Object-Relational Mapping)  
 - [ ]  Criar uma Base de Dados - Database (ConClientes)
 - [ ]  Criar uma Tabela - Table (cliente)
+- [ ]  Criar uma estrutura de persistência usando a IDE NetBeans (Entity Class for DataBase)
 - [ ]  Estruturar o projeto em pastas (DAO - MODEL - VIEW - EXCEPTIONS)
 - [x]  Enviar para o GitHub (ConClientes) 
 
