@@ -92,8 +92,10 @@ Github – http://www.github.com
 - - [Roteiro específico da Aula - 09/12/2021] Apresentação de Trabalhos (Interface Gráfica)
 - - [Roteiro específico da Aula - 14/12/2021] Projeto de Prática em CG
 - [Roteiro específico da Aula - 16/12/2021](aula17.md)
+- [Roteiro específico da Aula - 18/01/2022](aula18.md)
+- [Roteiro específico da Aula - 20/01/2022](aula19.md)
 - - [Roteiro específico da Aula - 25/01/2022] Apresentação de Trabalhos (Jogo de Xadrez)
-- - [Roteiro específico da Aula - 22/02/2022] Apresentação de Trabalhos (Jogo de Xadrez)
+
 - - [Roteiro específico da Aula - 24/02/2022] Projeto de Prática em CG
 
 
