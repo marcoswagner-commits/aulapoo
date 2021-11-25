@@ -13,7 +13,9 @@
 - Componentes Gráficos (Uso do Pacote Gráfico (graphics))
 
 ## Exemplo de Aplicação 
-![Captura de Tela 2021-11-24 às 09 29 53](https://user-images.githubusercontent.com/81576640/143238724-3b06e700-7839-4660-a71e-bfea8b3060e1.png)
+![Captura de Tela 2021-11-25 às 14 46 15](https://user-images.githubusercontent.com/81576640/143484635-d16c1420-e3ea-4aaf-b201-0f43e6034658.png)
+![Captura de Tela 2021-11-25 às 14 45 46](https://user-images.githubusercontent.com/81576640/143484643-0a05d1a0-8036-4c64-a633-430a2cbd6555.png)
+
 
 
 ### Conteúdo
@@ -21,16 +23,15 @@
 
 
 ### Passo 1: Aplicação Completa (FullApp)
-- [x]  Conceito => CRUD - Create / Retrieve / Update / Delete
-- [ ]  Conceito => Data Source (Base de Dados)
-- [ ]  Camada => DAO - Data Access Object
-- [ ]  Especificação => JPA (Java Persistence Application)
-- [ ]  Conceito => ORM (Object-Relational Mapping)  
-- [ ]  Criar uma Base de Dados - Database (ConClientes)
-- [ ]  Criar uma Tabela - Table (cliente)
-- [ ]  Criar uma estrutura de persistência usando a IDE NetBeans (Entity Class for DataBase)
-- [ ]  Estruturar o projeto em pastas (DAO - MODEL - VIEW - EXCEPTIONS)
-- [x]  Enviar para o GitHub (ConClientes) 
+- [x]  Criando os módulos Gráfico1 - Janela - Desenho
+- [ ]  Explorando o componente JComponent
+- [ ]  Explorando o método paint de JComponent
+- [ ]  Conhecendo e usando a classe Graphics
+- [ ]  Criando os atributos forma (retângulo - circunferência - triângulo) e cor (vermelhor - verde - azul)
+- [ ]  Criando setters/getters para forma e cor
+- [ ]  Adicionando um Componente Gráfico na janela
+- [ ]  Criando um PopupMenu para escolha de opções
+- [x]  Enviar para o GitHub (GraficoT1) 
 
 
 [![Aulas no Youtube](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/cb3e2ea9547f9ddc831277f07919c3e78451eb92/yt-icon.png)](https://www.youtube.com/channel/UCfO-aJxKLqau0TnL0AfNAvA)
