@@ -24,16 +24,18 @@
 - [Conceitos de Programação Orientada a Objetos](Conteudo_POO.pdf)
 
 
-### Passo 1: Aplicação Completa (FullApp)
-- [x]  Criando os módulos Gráfico1 - Janela - Desenho
-- [ ]  Explorando o componente JComponent
-- [ ]  Explorando o método paint de JComponent
-- [ ]  Conhecendo e usando a classe Graphics
-- [ ]  Criando os atributos forma (retângulo - circunferência - triângulo) e cor (vermelhor - verde - azul)
-- [ ]  Criando setters/getters para forma e cor
-- [ ]  Adicionando um Componente Gráfico na janela
-- [ ]  Criando um PopupMenu para escolha de opções
-- [x]  Enviar para o GitHub (GraficoT1) 
+### Passo 1: Aplicação Gráfica PGráfico2 e PGráfico3
+- [x]  Criando o primeiro projeto - Gráfico2
+- [ ]  Criando um pequeno relógio digital
+    - [ ]  Conhecendo Threads
+    - [ ]  Explorando a interface Runnable
+    - [ ]  Conhecendo o método start (Thread().start())
+    - [ ]  Conhecendo o método run
+- [ ]  Criando uma aplicação animada e interativa
+  - [ ] Criando os atributos Forma, Cor, Posição e Direção
+  - [ ] Criando um método para movimentação
+  - [ ] Usando Threads
+- [x]  Enviar para o GitHub (PGrafico2 e PGrafico3) 
 
 
 [![Aulas no Youtube](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/cb3e2ea9547f9ddc831277f07919c3e78451eb92/yt-icon.png)](https://www.youtube.com/channel/UCfO-aJxKLqau0TnL0AfNAvA)
