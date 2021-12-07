@@ -22,16 +22,23 @@
 - [Conceitos de Desenvolvimento de Aplicações](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/c538408f813e12bb046aeddaf8ae0d15d8277fff/documentos/Conte%C3%BAdo_Aula_DSW_M%C3%B3dulo_I.pdf)
 
 
-### Passo 1: Aplicação Completa (FullApp)
-- [x]  Conceito => CRUD - Create / Retrieve / Update / Delete
+### Passo 1: Aplicação Completa (Controle de Clientes)
+- [ ]  Conceito => CRUD - Create / Retrieve / Update / Delete
 - [ ]  Conceito => Data Source (Base de Dados)
 - [ ]  Camada => DAO - Data Access Object
 - [ ]  Especificação => JPA (Java Persistence Application)
 - [ ]  Conceito => ORM (Object-Relational Mapping)  
 - [ ]  Criar uma Base de Dados - Database (ConClientes)
 - [ ]  Criar uma Tabela - Table (cliente)
-- [ ]  Criar uma estrutura de persistência usando a IDE NetBeans (Entity Class for DataBase)
-- [ ]  Estruturar o projeto em pastas (DAO - MODEL - VIEW - EXCEPTIONS)
+
+- [x]  Detalhamentos ou passo a passo
+  - [x]  Estruturar o projeto em pastas/pacotes (DAO - MODEL - VIEW - EXCEPTIONS)
+  - [x]  Criar uma base de dados (usar MySQL - Workbench) - BDClientesX
+    - [ ]  Criar uma tabela de clientes (código com autoincremento e nome) - Clientes
+  - [ ]  Criar uma estrutura de persistência usando a IDE NetBeans (Entity Class for DataBase) 
+  - [x]  Enviar para o GitHub (ConClientes)
+  - [x]  Enviar para o GitHub (ConClientes)
+  - [ ]   
 - [x]  Enviar para o GitHub (ConClientes) 
 
 
