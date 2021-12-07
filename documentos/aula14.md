@@ -35,10 +35,12 @@
   - [x]  Estruturar o projeto em pastas/pacotes (DAO - MODEL - VIEW - EXCEPTIONS)
   - [x]  Criar uma base de dados (usar MySQL - Workbench) - BDClientesX
     - [ ]  Criar uma tabela de clientes (código com autoincremento e nome) - Clientes
-  - [ ]  Criar uma estrutura de persistência usando a IDE NetBeans (Entity Class for DataBase) 
-  - [x]  Enviar para o GitHub (ConClientes)
-  - [x]  Enviar para o GitHub (ConClientes)
-  - [ ]   
+  - [x]  Criar uma estrutura de persistência usando a IDE NetBeans (Entity Class for DataBase) 
+    - [ ]  Usar os pacotes para criação do driver (mysql-connecto-java-8.0.11.jar e protobuf-java-2.6.0.jar)
+  - [ ]  Adicionar os pacotes na lista de bibliotecas necessárias - Libraries - "add jar/folder" (mysql-connecto-java-8.0.11.jar e protobuf-java-2.6.0.jar)    
+  - [ ]  Adicionar na camada DAO um controlador JPA - "new Persistence - JPA Controller Classes from Entity Classes"
+  - [ ]  Fazer o primeiro teste com a inserção de um objeto/registro
+
 - [x]  Enviar para o GitHub (ConClientes) 
 
 
