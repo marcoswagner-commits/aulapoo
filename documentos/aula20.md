@@ -9,16 +9,27 @@
 ## Atividades da aula - roteiro
 ### 1 Conteúdos
 1.1.1. API 
+
 1.1.2. REST 
+
 1.1.3. Protocolo HTTP
+
 1.1.4. Ecossistema Spring
+
 1.1.5. O padrão MVC
+
 1.1.6. ORM
+
 1.1.7. Camadas 
+
 1.1.8. Segurança
+
 1.1.9. Consumo de APIs
+
 1.1.10. Frontend
+
 1.1.11. React
+
 1.1.12. Aplicação e repositórios na nuvem
 
 ### 2  - Ferramentas e recursos
