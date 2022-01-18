@@ -95,7 +95,14 @@ Github – http://www.github.com
 - [Roteiro específico da Aula - 18/01/2022](aula18.md)
 - [Roteiro específico da Aula - 20/01/2022](aula19.md)
 - - [Roteiro específico da Aula - 25/01/2022] Apresentação de Trabalhos (Jogo de Xadrez)
-
+- [Roteiro específico da Aula - 27/01/2022](aula20.md)
+- [Roteiro específico da Aula - 01/02/2022](aula21.md)
+- [Roteiro específico da Aula - 03/02/2022](aula22.md)
+- [Roteiro específico da Aula - 08/02/2022](aula23.md)
+- [Roteiro específico da Aula - 10/02/2022](aula24.md)
+- [Roteiro específico da Aula - 15/02/2022](aula25.md)
+- [Roteiro específico da Aula - 17/02/2022](aula26.md)
+- - [Roteiro específico da Aula - 22/02/2022] Apresentação de Trabalhos (Padrões de Projetos)
 - - [Roteiro específico da Aula - 24/02/2022] Projeto de Prática em CG
 
 
