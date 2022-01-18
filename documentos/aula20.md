@@ -61,19 +61,72 @@ Netlify – http://www.netlify.com
 Draw.IO - https://app.diagrams.net 
 
 
-## Exemplo de Aplicação 
-![Captura de Tela 2021-11-25 às 15 33 10](https://user-images.githubusercontent.com/81576640/143488695-1fe16759-ebd0-493a-a5f7-2281b0b41499.png)
-
-
-
 ### Conteúdo
 - [Conceitos de Programação Orientada a Objetos](Conteudo_POO.pdf)
 
 
-### Passo 1: Aplicação Gráfica Jogo da Velha
-- [x]  Criando o projeto JogoVelha
+### Passo 1: Aplicação Simples com um EndPoint
 
-- [x]  Enviar para o GitHub (Jogo da Velha) 
+- Conceituar Ecossistema SPRING - [Conteúdo do Curso](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/Conteúdo_Aula_DSW_Módulo_I.pdf)
+- Importância do Spring Boot 
+- Acessar o site Spring.io (https://spring.io) e verificar outros projetos existentes
+
+### Ferramenta de implementação ([Roteiro - Ferramentas](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/main/README.md))
+
+- [x] Abrir a Ferramenta STS4 (Spring Tool Suite)
+- [x] Criar um novo Projeto (File - New - Spring Starter Project)
+- [x] Primeira janela: 
+(Service URL: spring.io -  Name/Artfact: testeAula1 - Type: Maven - Java Version: 11 - Packaging: Jar - Group/Package: br.edu.ufj - Description: Primeiro teste para Aula DAW)
+- [x] Segunda janela: 
+(Versão do Spring Boot: 2.4.5 - Starters: Spring WEB; Spring Data)
+
+### Passo 1: Verificar a estrutura de arquivos do projeto
+
+### Passo 2: Compilar (run) a aplicação 
+
+### Passo 3: Adicionar a dependência H2 para resolver o problema apresentado, pois já foi informada a dependência Spring Data
+
+### Passo 4: Analisar primariamente o Project Object Model (pom.xml)
+
+### Passo 5: Fazer os primeiros testes com dois clientes (navegador e PostMan) ([Roteiro - Ferramentas](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/main/README.md))
+
+### Passo 6: Incluir os primeiros códigos, :+1: ainda sem criar nenhuma classe ou pacote, usando o arquivo principal:
+
+:shipit:
+```
+@SpringBootApplication
+@RestController
+public class TesteAula1Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TesteAula1Application.class, args);
+	}
+	
+	@GetMapping("/auladaw")
+	public String auladaw() {
+		return "Olá turma de DAW!;
+	}
+}
+```
+### Alterar os primeiros códigos, :+1::
+:shipit:
+```
+@SpringBootApplication
+@RestController
+public class TesteAula1Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TesteAula1Application.class, args);
+	}
+	
+	@GetMapping("/auladaw")
+	public String auladaw(@RequestParam(value = "nome", defaultValue = "NOME") String nome) {
+		return String.format("Olá turma de DAW, meu nome é %s",nome);
+	}
+}
+```
+
+### Conceituar API, REST, HTTP...
 
 
 [![Aulas no Youtube](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/cb3e2ea9547f9ddc831277f07919c3e78451eb92/yt-icon.png)](https://www.youtube.com/channel/UCfO-aJxKLqau0TnL0AfNAvA)
