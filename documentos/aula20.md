@@ -80,15 +80,29 @@ Draw.IO - https://app.diagrams.net
 - [x] Segunda janela: 
 (Versão do Spring Boot: 2.4.5 - Starters: Spring WEB; Spring Data)
 
-### Passo 1: Verificar a estrutura de arquivos do projeto
+### Modelo Conceitual:
+Descrição: O sistema (mini sistema com poucas classes) terá como premissa permitir que seja cadastrado um aluno do tipo pessoa e que este aluno possa ser vinculado a diversas disciplinas e que uma disciplina possa ter vários alunos.
 
-### Passo 2: Compilar (run) a aplicação 
+### Passos Gerais:
+1. Criar o modelo conceitual no DrawIO usando um Diagrama de Classes Simplificado! 
+2. Verificar o funcionamento do SGBD (MySQL - Workbench)
+3. Criar projeto no GitHub (aula_complementar)
+4. Criar projeto no STS4 (Spring Starter Project - Seguir check-list próprio)
+5. Fazer o primeiro commit
 
-### Passo 3: Adicionar a dependência H2 para resolver o problema apresentado, pois já foi informada a dependência Spring Data
 
-### Passo 4: Analisar primariamente o Project Object Model (pom.xml)
+### Passos específicos (STS4 com o Spring Boot):
+1. Definir dependências iniciais (Spring Web; Spring Data JPA; SpringBoot DevTools; MySQL Driver)
+2. Configurar o arquivo application.properties (banco de dados MySQL ou H2)
+3. Construir o primeiro controller apenas para testar o container TomCat
+4. Configurar o acesso ao banco de dados – usuário e senha
 
-### Passo 5: Fazer os primeiros testes com dois clientes (navegador e PostMan) ([Roteiro - Ferramentas](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/main/README.md))
+### Passos detalhados
+1. Verificar a estrutura de arquivos do projeto
+2. Compilar (run) a aplicação 
+3. Adicionar a dependência H2, caso ainda não seja usado o MySQL, pois já foi informada a dependência Spring Data
+4. Analisar primariamente o Project Object Model (pom.xml)
+5. Fazer os primeiros testes com dois clientes (navegador e PostMan) ([Roteiro - Ferramentas](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/main/README.md))
 
 ### Passo 6: Incluir os primeiros códigos, :+1: ainda sem criar nenhuma classe ou pacote, usando o arquivo principal:
 
@@ -135,7 +149,7 @@ public class TesteAula1Application {
 
 🥇:[![material complementar aula18](Capa_Videos_POO.png)](https://youtu.be/MvfzRq_Y6AQ)
 -
-🥈:[![material complementar aula18](Capa_Videos_POO.png)](https://youtu.be/pCFSuWUOc3M)
+🥈:[![material complementar aula18](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=2FiSekBqPXw)
 
 
 
