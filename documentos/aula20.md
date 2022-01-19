@@ -133,9 +133,9 @@ public class TesteAula1Application {
 
 ####  Os vídeos abaixo mostram a implementação do programa
 
-🥇:[![material complementar aula18](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=MvfzRq_Y6AQ)
+🥇:[![material complementar aula18](Capa_Videos_POO.png)](https://youtu.be/MvfzRq_Y6AQ)
 -
-🥈:[![material complementar aula18](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=2FiSekBqPXw)
+🥈:[![material complementar aula18](Capa_Videos_POO.png)](https://youtu.be/pCFSuWUOc3M)
 
 
 
