@@ -1,6 +1,6 @@
-# Aula 20 - Programação Orientada a Objetos
+# Aula 20/21/22/23/24 - Programação Orientada a Objetos
 
-> Aula 27/01/2022
+> Aula 27/01, 01/02, 03/02, 08/02, 10/02
 > 
 >  * Orientação a Objetos - Ambiente Gráfico - ORM - Desenvolvimento de Aplicações WEB *
 
@@ -82,6 +82,8 @@ Draw.IO - https://app.diagrams.net
 
 ### Modelo Conceitual:
 Descrição: O sistema (mini sistema com poucas classes) terá como premissa permitir que seja cadastrado um aluno do tipo pessoa e que este aluno possa ser vinculado a diversas disciplinas e que uma disciplina possa ter vários alunos.
+![image](https://user-images.githubusercontent.com/81576640/150136748-5049fcc5-a062-4b06-bcb6-170835c16df8.png)
+
 
 ### Passos Gerais:
 1. Criar o modelo conceitual no DrawIO usando um Diagrama de Classes Simplificado! 
@@ -140,6 +142,21 @@ public class TesteAula1Application {
 }
 ```
 
+:shipit:
+```
+# MYSQL
+spring.datasource.url= jdbc:mysql://localhost:3306/aula
+spring.datasource.username=aula
+spring.datasource.password=class 
+
+#JPA
+spring.jpa.hibernate.ddl-auto= update
+spring.jpa.show-sql= true
+spring.jpa.open-in-view= true
+```
+
+
+
 ### Conceituar API, REST, HTTP...
 
 
@@ -147,9 +164,26 @@ public class TesteAula1Application {
 
 ####  Os vídeos abaixo mostram a implementação do programa
 
-🥇:[![material complementar aula18](Capa_Videos_POO.png)](https://youtu.be/MvfzRq_Y6AQ)
--
-🥈:[![material complementar aula18](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=2FiSekBqPXw)
+🥇:[![material complementar aula20](Capa_Videos_POO.png)](https://youtu.be/MvfzRq_Y6AQ)
+
+🥈:[![material complementar aula20](Capa_Videos_POO.png)](https://youtu.be/pCFSuWUOc3M)
+
+🥇:[![material complementar aula20](Capa_Videos_POO.png)](https://youtu.be/n0HZSp-B4CY)
+
+🥈:[![material complementar aula20](Capa_Videos_POO.png)](https://youtu.be/Bil3qN_QC6k)
+
+🥇:[![material complementar aula20](Capa_Videos_POO.png)](https://youtu.be/EHF2T3kkHCw)
+
+🥈:[![material complementar aula20](Capa_Videos_POO.png)](https://youtu.be/jYYQQQ06jMk)
+
+🥇:[![material complementar aula20](Capa_Videos_POO.png)](https://youtu.be/jUNWZSQviRM)
+
+🥈:[![material complementar aula20](Capa_Videos_POO.png)](https://youtu.be/SoCUgfqXW4g)
+
+🥇:[![material complementar aula20](Capa_Videos_POO.png)](https://youtu.be/Ka_HWA7_zWU)
+
+
+
 
 
 
