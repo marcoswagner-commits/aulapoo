@@ -52,7 +52,7 @@ Visual Studio Code - https://code.visualstudio.com/download
 Outras instalações necessárias: node, npm, yarn e outros...
 
 #### Contas:
-Github – http://www.github.com - [Repositório GitHub] (github.com/marcoswagner-commits/aula_complementar)
+Github – http://www.github.com - [Repositório GitHub](github.com/marcoswagner-commits/aula_complementar)
 
 Heroku – www.heroku.com 
 
