@@ -101,7 +101,7 @@ Github – http://www.github.com
 - [Roteiro específico da Aula - 08/02/2022](aula20.md)
 - [Roteiro específico da Aula - 10/02/2022](aula20.md)
 - [Roteiro específico da Aula - 15/02/2022](aula21.md)
-- [Roteiro específico da Aula - 17/02/2022](aula22.md)
+- [Roteiro específico da Aula - 17/02/2022](aula21.md)
 - - [Roteiro específico da Aula - 22/02/2022] Apresentação de Trabalhos (Padrões de Projetos)
 - - [Roteiro específico da Aula - 24/02/2022] Projeto de Prática em CG
 
