@@ -2,7 +2,7 @@
 
 > Aula 27/01, 01/02, 03/02, 08/02, 10/02
 > 
->  * Orientação a Objetos - Ambiente Gráfico - ORM - Desenvolvimento de Aplicações WEB *
+>  * Orientação a Objetos - ORM - Desenvolvimento de Aplicações WEB *
 
 - [Conteúdo do Curso](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/Conteúdo_Aula_DSW_Módulo_I.pdf)
 
