@@ -163,7 +163,8 @@ spring.datasource.password=class
 # H2
 spring.h2.console.enabled=true
 spring.h2.console.path=/h2-console
-spring.datasource.url=jdbc:h2:file:˜/teste
+
+spring.datasource.url=jdbc:h2:file:˜/teste // ou // spring.datasource.url=jdbc:h2:mem:teste
 spring.datasource.username=teste
 spring.datasource.password=
 spring.datasource.driver-class-name=org.h2.Driver
