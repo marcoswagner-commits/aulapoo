@@ -115,6 +115,8 @@ Descrição: O sistema (mini sistema com poucas classes) terá como premissa per
 6. Serializable
 7. Anotações ORM
 
+- [Modelo de Camadas](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/c538408f813e12bb046aeddaf8ae0d15d8277fff/documentos/modelo_camadas.png)
+
 ### Incluir os primeiros códigos, :+1: ainda sem criar nenhuma classe ou pacote, usando o arquivo principal:
 
 :shipit:
