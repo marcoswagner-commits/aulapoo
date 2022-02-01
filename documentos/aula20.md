@@ -106,7 +106,16 @@ Descrição: O sistema (mini sistema com poucas classes) terá como premissa per
 4. Analisar primariamente o Project Object Model (pom.xml)
 5. Fazer os primeiros testes com dois clientes (navegador e PostMan) ([Roteiro - Ferramentas](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/main/README.md))
 
-### Passo 6: Incluir os primeiros códigos, :+1: ainda sem criar nenhuma classe ou pacote, usando o arquivo principal:
+### Passos específicos para criar um "Modelo de Domínio":
+1. Verificar os atributos básicos
+2. Verificar as associações/relações
+3. Construtores
+4. Getters/Setters
+5. HashCode e Equals
+6. Serializable
+7. Anotações ORM
+
+### Incluir os primeiros códigos, :+1: ainda sem criar nenhuma classe ou pacote, usando o arquivo principal:
 
 :shipit:
 ```
