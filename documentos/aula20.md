@@ -158,6 +158,15 @@ spring.datasource.url= jdbc:mysql://localhost:3306/aula
 spring.datasource.username=aula
 spring.datasource.password=class 
 
+# H2
+spring.h2.console.enabled=true
+spring.h2.console.path=/h2-console
+spring.datasource.url=jdbc:h2:file:˜/teste
+spring.datasource.username=teste
+spring.datasource.password=
+spring.datasource.driver-class-name=org.h2.Driver
+
+
 #JPA
 spring.jpa.hibernate.ddl-auto= update
 spring.jpa.show-sql= true
