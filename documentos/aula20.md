@@ -5,6 +5,7 @@
 >  * Orientação a Objetos - ORM - Desenvolvimento de Aplicações WEB *
 
 - [Conteúdo do Curso](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/tree/documentos/documentos/Conteúdo_Aula_DSW_Módulo_I.pdf)
+- [Repositório específico dos códigos](https://github.com/marcoswagner-commits/aula_complementar.git)
 
 ## Atividades da aula - roteiro
 ### 1 Conteúdos
