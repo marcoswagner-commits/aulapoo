@@ -157,7 +157,7 @@ public class TesteAula1Application {
 :shipit:
 ```
 # MYSQL
-spring.datasource.url= jdbc:mysql://localhost:3306/aula
+spring.datasource.url=jdbc:mysql://localhost:3306/aula_orm?createDatabaseIfNotExist=true&serverTimezone=UTC
 spring.datasource.username=aula
 spring.datasource.password=class 
 
