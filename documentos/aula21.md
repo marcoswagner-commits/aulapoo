@@ -140,8 +140,10 @@ Requisitos de um bom sistema de padrões:
 O sistema deve conter uma boa quantidade de padrões. A descrição dos padrões deve seguir um formato padronizado. O sistema deve ser estruturado, organizando os padrões seguindo critérios bem definidos.
 Existem 23 padrões divididos em: Criação, Estruturais e Comportamentais.
 
-![Captura de Tela 2022-02-14 às 12 08 12](https://user-images.githubusercontent.com/81576640/153889946-4768781a-73c7-49f4-b7ed-c93767b4bf90.png)
+![padroes_projeto](https://user-images.githubusercontent.com/81576640/153916660-e78e627f-8615-4859-93fb-65ac5c421d80.png)
 
+### Livro Referência
+![Captura de Tela 2022-02-14 às 14 29 31](https://user-images.githubusercontent.com/81576640/153916757-41e0c3ef-19f6-46cd-8108-b7356a760e0e.png)
 
 
 
@@ -150,10 +152,37 @@ Existem 23 padrões divididos em: Criação, Estruturais e Comportamentais.
 - [x]  Detalhar o padrão
 - [ ]  Implementar
 
-### Passo 2: Outro exemplo simples de um Padrão de Projeto (SingleTom)
-- [x]  Criando um Projeto para SingleTom
+#### Singleton
+Motivação: algumas classes devem ser instanciadas uma única vez:
+
+
+    - Um spooler de impressão
+    - Um sistema de arquivos
+    - Um Window manager
+    - Um objeto que contém a configuração do programa
+    - Um ponto de acesso ao banco de dados
+
+Obstáculo: a definição de uma variável global deixa a instância (objeto) acessível mas não inibe a instanciação múltipla.
+Como assegurar que somente uma instância de uma classe seja criada para toda a aplicação?
+
+Intenção: garantir que uma classe tem apenas uma instância, e prover um ponto de acesso global a ela;
+
+Solução: fazer com que a própria classe seja responsável pela manutenção da instância única, de tal forma que:
+
+    - Quando a instância for requisitada pela primeira vez, essa instância deve ser criada;
+    - Em requisições subseqüentes, a instância criada na primeira vez é retornada.
+    - A classe Singleton deve:
+
+        - armazenar a única instância existente;
+        - garantir que apenas uma instância será criada;
+        - prover acesso a tal instância.
+        
+
+### Passo 2: Outro exemplo simples de um Padrão de Projeto (Strategy e Template Method)
+- [x]  Criando um Projeto para Strategy e Template Method
 - [x]  Detalhar o padrão
 - [ ]  Implementar
+
 
 
 [![Aulas no Youtube](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/cb3e2ea9547f9ddc831277f07919c3e78451eb92/yt-icon.png)](https://www.youtube.com/channel/UCfO-aJxKLqau0TnL0AfNAvA)
