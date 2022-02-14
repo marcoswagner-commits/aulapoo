@@ -14,10 +14,13 @@
 
 
 ### Pilares da O.O.:
-#### Abstração
-#### Encapsulamento
-#### Herança/Relações
-#### Polimorfismo
+Abstração
+
+Encapsulamento
+
+Herança/Relações
+
+Polimorfismo
 
 
 ### Princípios da O.O.:
