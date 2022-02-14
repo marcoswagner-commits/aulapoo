@@ -215,7 +215,8 @@ Definir o esqueleto de um algoritmo em uma operação, postergando (deferring) a
 Agora imagine que você tenha de construir uma aplicação que possui uma determinada função da qual só é de conhecimento o algoritmo de execução, e o trabalho de codificação para realização da operação possa ser postergado. Observe a Figura 5.
 
 Estrutura do padrão
-![Captura de Tela 2022-02-14 às 15 33 43](https://user-images.githubusercontent.com/81576640/153925104-2d158d37-acdd-4738-aa9f-5427769d11e2.png)
+![Captura de Tela 2022-02-14 às 15 41 41](https://user-images.githubusercontent.com/81576640/153926203-4e456ac7-8082-46fb-9849-9f4a5fa9b4b8.png)
+
 
 Sobre a aplicabilidade desse padrão temos:
 
