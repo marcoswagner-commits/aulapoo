@@ -235,7 +235,7 @@ Os métodos template são uma técnica fundamental para a reutilização de cód
 
 ####  Os vídeos abaixo mostram a implementação do programa
 
-🥇:[![material complementar aula18](Capa_Videos_POO.png)]()
+🥇:[![material complementar aula18](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=as2xYdNm2ao)
 -
 🥈:[![material complementar aula18](Capa_Videos_POO.png)]()
 
