@@ -140,6 +140,9 @@ Requisitos de um bom sistema de padrões:
 O sistema deve conter uma boa quantidade de padrões. A descrição dos padrões deve seguir um formato padronizado. O sistema deve ser estruturado, organizando os padrões seguindo critérios bem definidos.
 Existem 23 padrões divididos em: Criação, Estruturais e Comportamentais.
 
+![Captura de Tela 2022-02-14 às 12 00 29](https://user-images.githubusercontent.com/81576640/153888505-a812c9fc-7aba-433d-9831-bcd366af55c5.png)
+
+
 
 ### Passo 1: Um exemplo simples de um Padrão de Projeto (SingleTom)
 - [x]  Criando um Projeto para SingleTom
