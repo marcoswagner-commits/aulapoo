@@ -148,8 +148,8 @@ Existem 23 padrões divididos em: Criação, Estruturais e Comportamentais.
 Veja um artigo completo sobre Padrões de Projeto - [Design Patterns](https://www.devmedia.com.br/conheca-os-padroes-de-projeto/957)
 
 
-### Passo 1: Um exemplo simples de um Padrão de Projeto (SingleTom)
-- [x]  Criando um Projeto para SingleTom
+### Passo 1: Um exemplo simples de um Padrão de Projeto (Singleton)
+- [x]  Criando um Projeto para Singleton
 - [x]  Detalhar o padrão
 - [ ]  Implementar
 
