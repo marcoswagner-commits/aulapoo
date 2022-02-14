@@ -183,7 +183,51 @@ Solução: fazer com que a própria classe seja responsável pela manutenção d
 - [x]  Detalhar o padrão
 - [ ]  Implementar
 
+#### Strategy
+Intenção
+Criar uma Strategy para cada variante e fazer com que o método delegue o algoritmo para uma instância de Strategy.
 
+- Outros nomes dado ao Padrão
+Policy e Motivação
+
+A lógica condicional é uma das estruturas mais complexas e utilizadas no desenvolvimento de softwares corporativos. Lógicas condicionais tendem a crescer e tornar-se cada vez mais sofisticadas, maiores e mais difíceis de manter com o passar do tempo. O padrão Strategy ajuda a gerenciar toda essa complexidade imposta pelas lógicas condicionais. O Padrão Strategy sugere que se produza uma família de classes para cada variação do algoritmo e que se forneça para a classe hospedeira uma instância de Strategy para a qual ela delegará em tempo de execução. Um dos pré-requisitos para o Strategy é uma estrutura de herança onde cada subclasse específica contém uma variação do algoritmo. Assim, o padrão Strategy possui diversos benefícios como clarificar algoritmos ao diminuir ou remover lógica condicional, simplificar uma classe ao mover variações de um algoritmo para uma hierarquia, e habilitar um algoritmo para ser substituído por outro em tempo de execução.
+
+Aplicabilidade
+
+Em resumo o padrão Strategy pode ser utilizado quando se tem as seguintes situações:
+
+Quando muitas classes relacionadas diferem apenas no seu comportamento;
+
+Quando necessita-se de variantes de um algoritmo;
+
+Quando se precisa ocultar do usuário a exposição das estruturas de dados complexas, específicas do algoritmo;
+
+Quando uma classe define muitos comportamentos e por sua vez eles aparecem como diversos “IFs”. Com isso esses comandos condicionais são movidos para sua própria classe Strategy.
+
+Estrutura do Padrão
+![Captura de Tela 2022-02-14 às 15 39 32](https://user-images.githubusercontent.com/81576640/153925878-647ada22-d7ca-4650-b911-3038f8d30dc9.png)
+
+
+
+#### Template Method
+Definir o esqueleto de um algoritmo em uma operação, postergando (deferring) alguns passos para subclasses. Template Method (gabarito de método) permite que subclasses redefinam certos passos de um algoritmo sem mudar a estrutura dele.
+
+Agora imagine que você tenha de construir uma aplicação que possui uma determinada função da qual só é de conhecimento o algoritmo de execução, e o trabalho de codificação para realização da operação possa ser postergado. Observe a Figura 5.
+
+Estrutura do padrão
+![Captura de Tela 2022-02-14 às 15 33 43](https://user-images.githubusercontent.com/81576640/153925104-2d158d37-acdd-4738-aa9f-5427769d11e2.png)
+
+Sobre a aplicabilidade desse padrão temos:
+
+Para implementar as partes invariantes de um algoritmo e deixar para subclasses a implementação da parte variante;
+Para fatorar o comportamento semelhante entre subclasses numa superclasse evitando-se assim a duplicação de código;
+Para controlar extensões de classes com métodos "gancho";
+
+Seus participantes são:
+
+AbstractClass – define as operações primitivas e abstratas que representam os passos de um algoritmo e implementa um método que invoca estas operações primitivas;
+ConcreteClass – implementa as operações específicas definidas na superclasse com o código específico.
+Os métodos template são uma técnica fundamental para a reutilização de código. Eles conduzem a uma estrutura de inversão de controle em inglês Inversion of Control IoC ou princípio da dependência inversa, comumente conhecida como “o princípio de Hollywood”, ou seja: “não nos chame, nós chamaremos você”. Isto se refere a como uma classe-mãe chama as operações de uma subclasse, e não o contrário.
 
 [![Aulas no Youtube](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/cb3e2ea9547f9ddc831277f07919c3e78451eb92/yt-icon.png)](https://www.youtube.com/channel/UCfO-aJxKLqau0TnL0AfNAvA)
 
