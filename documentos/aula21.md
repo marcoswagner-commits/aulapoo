@@ -145,6 +145,7 @@ Existem 23 padrões divididos em: Criação, Estruturais e Comportamentais.
 ### Livro Referência
 ![Captura de Tela 2022-02-14 às 14 29 31](https://user-images.githubusercontent.com/81576640/153916757-41e0c3ef-19f6-46cd-8108-b7356a760e0e.png)
 
+Veja um artigo completo sobre Padrões de Projeto - [Design Patterns](https://www.devmedia.com.br/conheca-os-padroes-de-projeto/957)
 
 
 ### Passo 1: Um exemplo simples de um Padrão de Projeto (SingleTom)
@@ -154,7 +155,6 @@ Existem 23 padrões divididos em: Criação, Estruturais e Comportamentais.
 
 #### Singleton
 Motivação: algumas classes devem ser instanciadas uma única vez:
-
 
     - Um spooler de impressão
     - Um sistema de arquivos
