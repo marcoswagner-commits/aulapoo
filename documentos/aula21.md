@@ -83,6 +83,64 @@ Importante: Inversão de Dependência não é igual a Injeção de Dependência,
 
 Veja um artigo completo sobre SOLID - [Artigo S O L I D](https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530#:~:text=SOLID%20s%C3%A3o%20cinco%20princ%C3%ADpios%20da,a%20qualquer%20linguagem%20de%20POO).
 
+
+### PADRÕES DE PROJETO
+Padrões de projeto podem ser vistos como uma solução que já foi testada para um problema. Desta forma, um padrão de projeto geralmente descreve uma solução ou uma instância da solução que foi utilizada para resolver um problema específico. Padrões de projetos  são soluções para problemas que alguém um dia teve e resolveu aplicando um modelo que foi documentado e que você pode adaptar integralmente ou de acordo com necessidade de sua solução.
+
+#### Em geral, um padrão tem quatro elementos essenciais:
+1 – Nome do padrão: é uma referência que podemos usar para descrever um problema de projeto, suas soluções e consequências em uma ou duas palavras.
+2 – O problema: explica o problema e seu contexto.
+3 – A solução: descreve os elementos que compõem o projeto, seus relacionamentos, suas responsabilidades e colaborações.
+4 – As conseqüências: resultados e análises das vantagens e desvantagens (trades-off) da aplicação do padrão.
+Podemos considerar que a idéia original de Design Patterns surgiu com Christopher Alexander (Engenheiro Civil) quando ele propôs a criação de catálogos de padrões para arquitetura no ano de 1978. 
+Com a palavra Christopher Alexander :
+"Um padrão descreve um problema que ocorre inúmeras vezes em determinado contexto, e descreve ainda a solução para esse problema, de modo que essa solução possa ser utilizada sistematicamente em distintas situações."
+
+
+####  Descrevendo os padrões de projeto
+As notações gráficas, embora sejam importantes e úteis, não são suficientes. Elas simplesmente capturam o produto final do processo de projeto como relacionamentos entre classes e objetos. Para reutilizar o projeto, nós devemos registrar decisões, alternativas e análises de custos e benefícios que levaram a ele. Também são importantes exemplos concretos, porque ajudam a ver o projeto em ação.
+Nós descrevemos padrões de projeto usando um formato consistente. Cada padrão é dividido em seções de acordo com o gabarito a seguir. O gabarito fornece uma estrutura uniforme às informações, tornando os padrões de projeto mais fáceis de aprender, comparar e usar:
+
+1. Nome e classificação do padrão
+2. Intenção e objetivo
+3. Também conhecido como
+4. Motivação
+5. Aplicabilidade
+6. Estrutura
+7. Participantes
+8. Colaborações
+9. Consequencias
+10.  Implementação
+11.  Exemplo de código
+12.  Usos conhecidos
+13.  Padrões relacionados
+
+####  Principais propriedades dos padrões de projetos
+
+Dentre as principais propriedades dos padrões de projetos podemos citar:
+1. Capturam o conhecimento e a experiência de especialistas em projeto de software.
+2. Especificam abstrações que estão acima do nível de classes ou objetos isolados ou de componentes.
+3. Definem um vocabulário comum para a discussão de problemas e soluções de projeto.
+4. Facilitam a documentação e manutenção da arquitetura do software.
+5. Auxiliam o projeto de uma arquitetura com determinadas propriedades.
+6. Auxiliam o projeto de arquiteturas mais complexas.
+
+####  Quando e como utilizar padrões de projetos
+A primeira coisa que você tem que ter é bom senso. Faça a sua parte, implemente sua solução e veja se ela funciona. A seguir verifique se ela pode ser otimizada, se for o caso utilize o padrão de projeto que se ajusta ao seu caso para melhorar as deficiências verificadas no seu projeto.
+Naturalmente isto será tão mais fácil se você tiver uma visão global do seu projeto e seu funcionamento.
+
+Os padrões de projeto não são uma varinha mágica que vai tornar o seu projeto isento de falhas. Se for mal implementado eles podem até diminuir a compreensão do seu projeto e aumentar a quantidade de código. Portanto padrões de projeto não resolvem todos os problemas de design de projetos.
+Os componentes de um padrão de projeto são :
+1- Nome - descreve a essência do padrão.
+2- Objetivo - descreve como o padrão atua.
+3- Problema - descreve o problema.
+4- Solução - descreve a solução.
+5- Conseqüências - descreve os benefícios da utilização do padrão.
+Requisitos de um bom sistema de padrões:
+O sistema deve conter uma boa quantidade de padrões. A descrição dos padrões deve seguir um formato padronizado. O sistema deve ser estruturado, organizando os padrões seguindo critérios bem definidos.
+Existem 23 padrões divididos em: Criação, Estruturais e Comportamentais.
+
+
 ### Passo 1: Um exemplo simples de um Padrão de Projeto (SingleTom)
 - [x]  Criando um Projeto para SingleTom
 - [x]  Detalhar o padrão
