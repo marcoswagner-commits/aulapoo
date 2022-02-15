@@ -151,7 +151,14 @@ Veja um artigo completo sobre Padrões de Projeto - [Design Patterns](https://ww
 ### Passo 1: Um exemplo simples de um Padrão de Projeto (Singleton)
 - [x]  Criando um Projeto para Singleton
 - [x]  Detalhar o padrão
-- [ ]  Implementar
+- [ ]  Criar uma classe "Principal" (no pacote principal) para iniciar a aplicação
+- [ ]  Criar uma classe "Singleton" (no pacote padroes) 
+- [ ]  Criar atributos relacionados com uma base de dados (database, porta, status, momento)
+- [ ]  Criar uma variável estática para armazenar a instância da classe
+- [ ]  Criar um construtor com parâmetros com acesso privado
+- [ ]  Criar um método para obter a instância da classe
+- [ ]  Criar getters/setters/toString
+- [ ]  Testar na classe principal o funcionamento da aplicação/padrão
 
 #### Singleton
 Motivação: algumas classes devem ser instanciadas uma única vez:
@@ -180,8 +187,22 @@ Solução: fazer com que a própria classe seja responsável pela manutenção d
 
 ### Passo 2: Outro exemplo simples de um Padrão de Projeto (Strategy e Template Method)
 - [x]  Criando um Projeto para Strategy e Template Method
-- [x]  Detalhar o padrão
-- [ ]  Implementar
+- [x]  Detalhar o padrão (Strategy)
+- [ ]  Criar uma classe "Principal" (no pacote principal) para iniciar a aplicação
+- [ ]  Criar uma classe "Usuario" (no pacote model)
+- [ ]  Criar na classe "Usuario" os atributos (nome e email) e métodos (construtor, getters, setters)
+- [ ]  Criar uma interface "EmailService" (no pacote padroes) 
+- [ ]  Criar na interface "EmailService" um método "confirmationEmail" ainda sem argumentos
+- [ ]  Criar na interface "EmailService" um método "sendEmail" com parâmetro (String msg)
+- [x]  Detalhar o padrão (Template Method)
+- [ ]  Criar uma classe abstrata "AbstractEmailService" que irá implementar a interface "EmailService"
+- [ ]  Criar na classe "AbstractEmailService" o método prepareMailMessage (que fará a composição da mensagem)
+- [ ]  Criar uma classe "SenderMail" que extenderá a classe "AbstractEmailService"
+- [ ]  Criar na classe "SenderMail" o método sendEmail que irá receber a composição da mensagem
+- [ ]  Criar uma classe "CreateUser" para simular o cadastro do usuário
+- [ ]  Testar na classe principal o funcionamento da aplicação/padrão
+
+
 
 #### Strategy
 Intenção
