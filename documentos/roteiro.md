@@ -72,7 +72,8 @@ Github – http://www.github.com
 - [Trabalho 1 - Lista de Exercícios](https://github.com/marcoswagner-commits/aulapoo/blob/a8ed4bfc22f2aa54739e9a21d49b458f325a1986/documentos/Trabalho1%20-%20POO.pdf)
 - [Trabalho 2 - Gestão de Garagem Automotiva](https://github.com/marcoswagner-commits/aulapoo/blob/30a9163834a1bdfb61da0f6a3ca3a945bea58445/documentos/Trabalho2%20-%20POO.pdf)
 - [Trabalho 3 - Jogo de Xadrez](https://github.com/marcoswagner-commits/aulapoo/files/7934427/Trabalho.3.-.POO.pdf)
-- [Trabalho 4 - Padrões de Projeto](https://github.com/marcoswagner-commits/aulapoo/files/8061888/Trabalho.4.-.POO.pdf)
+- [Trabalho 4 - Padrões de Projeto](https://github.com/marcoswagner-commits/aulapoo/files/8088591/Trabalho.4.-.POO.pdf)
+
 
 
 
