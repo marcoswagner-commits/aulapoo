@@ -205,8 +205,9 @@ Solução: fazer com que a própria classe seja responsável pela manutenção d
 
 
 #### Strategy
-Intenção
-Criar uma Strategy para cada variante e fazer com que o método delegue o algoritmo para uma instância de Strategy.
+Intenção:
+
+Criar uma "Strategy" para cada variante e fazer com que o método delegue o algoritmo para uma instância de Strategy.
 
 - Outros nomes dado ao Padrão
 Policy e Motivação
@@ -217,13 +218,13 @@ Aplicabilidade
 
 Em resumo o padrão Strategy pode ser utilizado quando se tem as seguintes situações:
 
-Quando muitas classes relacionadas diferem apenas no seu comportamento;
+- Quando muitas classes relacionadas diferem apenas no seu comportamento;
 
-Quando necessita-se de variantes de um algoritmo;
+- Quando necessita-se de variantes de um algoritmo;
 
-Quando se precisa ocultar do usuário a exposição das estruturas de dados complexas, específicas do algoritmo;
+- Quando se precisa ocultar do usuário a exposição das estruturas de dados complexas, específicas do algoritmo;
 
-Quando uma classe define muitos comportamentos e por sua vez eles aparecem como diversos “IFs”. Com isso esses comandos condicionais são movidos para sua própria classe Strategy.
+- Quando uma classe define muitos comportamentos e por sua vez eles aparecem como diversos “IFs”. Com isso esses comandos condicionais são movidos para sua própria classe Strategy.
 
 Estrutura do Padrão
 ![Captura de Tela 2022-02-14 às 15 39 32](https://user-images.githubusercontent.com/81576640/153925878-647ada22-d7ca-4650-b911-3038f8d30dc9.png)
