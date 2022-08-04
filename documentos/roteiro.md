@@ -99,14 +99,16 @@ Github – http://www.github.com
 - - [Roteiro específico da Aula - 29/09/2022] Projeto de Prática em CG
 
 - << OUTUBRO >>
-- [Roteiro específico da Aula - 16/12/2021](aula17.md)
-- [Roteiro específico da Aula - 18/01/2022](aula18.md)
-- [Roteiro específico da Aula - 20/01/2022](aula19.md)
-- - [Roteiro específico da Aula - 25/01/2022] Apresentação de Trabalhos (Jogo de Xadrez)
-- [Roteiro específico da Aula - 27/01/2022](aula20.md)
-- [Roteiro específico da Aula - 01/02/2022](aula20.md)
-- [Roteiro específico da Aula - 03/02/2022](aula20.md)
-- [Roteiro específico da Aula - 08/02/2022](aula20.md)
+- [Roteiro específico da Aula - 04/10/2022](aula17.md)
+- [Roteiro específico da Aula - 06/10/2022](aula18.md)
+- [Roteiro específico da Aula - 11/10/2022](aula19.md)
+- - [Roteiro específico da Aula - 13/10/2022] Apresentação de Trabalhos (Minecraft2D)
+- [Roteiro específico da Aula - 18/10/2022](aula20.md) - CONEPE
+- [Roteiro específico da Aula - 20/10/2022](aula20.md) - CONEPE
+- [Roteiro específico da Aula - 25/02/2022](aula20.md)
+- [Roteiro específico da Aula - 27/02/2022](aula20.md)
+
+- << NOVEMBRO >>
 - [Roteiro específico da Aula - 10/02/2022](aula20.md)
 - [Roteiro específico da Aula - 15/02/2022](aula21.md)
 - [Roteiro específico da Aula - 17/02/2022](aula21.md)
