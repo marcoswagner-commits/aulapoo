@@ -15,7 +15,7 @@
 ### Passo 1: Disciplina: Plano de Ensino - Planejamento - Aulas - GitHub
 - [x]  Plano de Ensino
 - [x]  Planejamento do Semestre
-- [x]  Aulas Síncronas e Assíncronas (Vídeos e Online)
+- [x]  Vídeos e Códigos
 - [x]  Uso do GitHub
 
 
