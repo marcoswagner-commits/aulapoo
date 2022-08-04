@@ -88,14 +88,14 @@ Github – http://www.github.com
 - [Roteiro específico da Aula - 25/08/2022](aula06.md)
 - [Roteiro específico da Aula - 30/08/2022](aula07.md)
 
-- SETEMBRO
-- [Roteiro específico da Aula - 16/11/2021](aula08.md)
-- [Roteiro específico da Aula - 18/11/2021](aula09.md)
-- - [Roteiro específico da Aula - 23/11/2021] Apresentação de Trabalhos (Kahoot e Lista de Exercícios)
-- [Roteiro específico da Aula - 25/11/2021](aula11.md)
-- [Roteiro específico da Aula - 30/11/2021](aula12.md)
-- [Roteiro específico da Aula - 02/12/2021](aula13.md)
-- [Roteiro específico da Aula - 07/12/2021](aula14.md)
+- << SETEMBRO >>
+- [Roteiro específico da Aula - 01/09/2022](aula08.md)
+- [Roteiro específico da Aula - 06/09/2022](aula09.md)
+- - [Roteiro específico da Aula - 08/09/2022] Apresentação de Trabalhos (Kahoot e Lista de Exercícios)
+- [Roteiro específico da Aula - 13/09/2022](aula11.md)
+- [Roteiro específico da Aula - 15/09/2022](aula12.md)
+- [Roteiro específico da Aula - 20/09/2022](aula13.md)
+- [Roteiro específico da Aula - 22/09/2022](aula14.md)
 - - [Roteiro específico da Aula - 09/12/2021] Apresentação de Trabalhos (Interface Gráfica)
 - - [Roteiro específico da Aula - 14/12/2021] Projeto de Prática em CG
 - [Roteiro específico da Aula - 16/12/2021](aula17.md)
