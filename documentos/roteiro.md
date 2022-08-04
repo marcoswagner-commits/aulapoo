@@ -1,5 +1,5 @@
 # Aula de Programação Orientada a Objetos - Curso de Ciências da Computação - UFJ
-# Roteiro de Aula – 2021/1 (2021)
+# Roteiro de Aula – 2022/1
 
 ## 1 - Apresentação da disciplina: Plano de Ensino – Conteúdos – Metodologia – Avaliações
 	* Vide Plano de Ensino; Planejamento da Disciplina; documento Conteúdos
@@ -20,7 +20,7 @@
 1.2.2. Implementação comparativa e incremental
 
 ### 1.3 Avaliações
-- Trabalho 1 - (Kahoot - Lista de Exercícios)
+- Trabalho 1 - (Kahoot + Lista de Exercícios)
 - Trabalho 2 - Interface Gráfica
 - Trabalho 3 - Jogo de Xadrez
 - Trabalho 4 - Padrões de Projetos 
@@ -78,8 +78,8 @@ Github – http://www.github.com
 
 
 ### Aulas
-- [Roteiro específico da Aula - 19/10/2021](aula01.md)
-- [Roteiro específico da Aula - 21/10/2021](aula02.md)
+- [Roteiro específico da Aula - 09/08/2022](aula01.md)
+- [Roteiro específico da Aula - 11/08/2022](aula02.md)
 - [Roteiro específico da Aula - 26/10/2021](aula03.md)
 - [Roteiro específico da Aula - 28/10/2021](aula04.md)
 - [Roteiro específico da Aula - 04/11/2021](aula05.md)
