@@ -1,6 +1,6 @@
 # Aula 06 - Programação Orientada a Objetos
 
-> Aula 09/11/2021
+> Aula 25/08/2022
 > 
 >  * Orientação a Objetos - Herança: Generalização e Especialização – Exercício 4: “Quadrado” *
 
