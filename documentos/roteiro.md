@@ -79,6 +79,7 @@ Github – http://www.github.com
 ### Aulas
 
 - << AGOSTO >>
+- <<< Conceitos Básicos e Aplicações >>>
 - [Roteiro específico da Aula - 09/08/2022](aula01.md)
 - [Roteiro específico da Aula - 11/08/2022](aula02.md)
 - [Roteiro específico da Aula - 16/08/2022](aula03.md)
@@ -87,10 +88,12 @@ Github – http://www.github.com
 - [Roteiro específico da Aula - 25/08/2022](aula06.md)
 - [Roteiro específico da Aula - 30/08/2022](aula07.md)
 
+
 - << SETEMBRO >>
 - [Roteiro específico da Aula - 01/09/2022](aula08.md)
 - [Roteiro específico da Aula - 06/09/2022](aula09.md)
 - - [Roteiro específico da Aula - 08/09/2022] Apresentação de Trabalhos (Kahoot e Lista de Exercícios)
+- <<< Interfaces Gráficas >>>
 - [Roteiro específico da Aula - 13/09/2022](aula11.md)
 - [Roteiro específico da Aula - 15/09/2022](aula12.md)
 - [Roteiro específico da Aula - 20/09/2022](aula13.md)
@@ -98,15 +101,19 @@ Github – http://www.github.com
 - - [Roteiro específico da Aula - 27/09/2022] Apresentação de Trabalhos (Interface Gráfica)
 - - [Roteiro específico da Aula - 29/09/2022] Projeto de Prática em CG
 
+
 - << OUTUBRO >>
+- <<< Pacote Gráfico >>>
 - [Roteiro específico da Aula - 04/10/2022](aula17.md)
 - [Roteiro específico da Aula - 06/10/2022](aula18.md)
 - [Roteiro específico da Aula - 11/10/2022](aula19.md)
 - - [Roteiro específico da Aula - 13/10/2022] Apresentação de Trabalhos (Minecraft2D)
 - [Roteiro específico da Aula - 18/10/2022](aula20.md) - CONEPE
 - [Roteiro específico da Aula - 20/10/2022](aula20.md) - CONEPE
+- <<< Aplicações WEB >>>
 - [Roteiro específico da Aula - 25/02/2022](aula20.md)
 - [Roteiro específico da Aula - 27/02/2022](aula20.md)
+
 
 - << NOVEMBRO >>
 - [Roteiro específico da Aula - 01/11/2022](aula20.md)
@@ -114,10 +121,12 @@ Github – http://www.github.com
 - [Roteiro específico da Aula - 08/11/2022](aula20.md)
 - [Roteiro específico da Aula - 10/11/2022](aula20.md)
 - [Roteiro específico da Aula - 15/11/2022](aula20.md)
+- <<< Padrões de Projeto >>>
 - [Roteiro específico da Aula - 17/11/2022](aula21.md)
 - [Roteiro específico da Aula - 22/11/2022](aula21.md)
 - [Roteiro específico da Aula - 24/11/2022](aula21.md)
 - [Roteiro específico da Aula - 29/11/2022](aula21.md)
+
 
 - << DEZEMBRO >>
 - [Roteiro específico da Aula - 01/12/2022](aula21.md)
