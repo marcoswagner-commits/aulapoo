@@ -1,6 +1,6 @@
 # Aula 05 - Programação Orientada a Objetos
 
-> Aula 04/11/2021
+> Aula 23/08/2022
 > 
 >  * Orientação a Objetos - Estrutura de Classes e Instanciação de Objetos. Exercício 3 – “Triangulo” *
 
