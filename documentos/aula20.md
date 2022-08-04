@@ -1,6 +1,6 @@
 # Aula 20/21/22/23/24 - Programação Orientada a Objetos
 
-> Aula 27/01, 01/02, 03/02, 08/02, 10/02
+> Aula 18/10, 20/10, 25/10 e 27/10
 > 
 >  * Orientação a Objetos - ORM - Desenvolvimento de Aplicações WEB *
 
