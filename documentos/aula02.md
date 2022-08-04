@@ -30,7 +30,7 @@ LTS é uma variação de um software cujo principal objetivo é proporcionar est
 
 ####  Os vídeos abaixo mostram os primeiros conceitos sobre O.O.
 
-🥇:[![material complementar aula02](Capa_Videos_POO.png)](https://youtu.be/DjW1O_yAgHE)
+🥇:[![material complementar aula02](Capa_Videos_POO.png)](https://youtu.be/XAaQ3UnxQrI)
 -
 🥈:[![material complementar aula02](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=nBZ42aS-2Q4)
 -
