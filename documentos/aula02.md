@@ -24,7 +24,7 @@ LTS é uma variação de um software cujo principal objetivo é proporcionar est
 ### Passo 1: Disciplina: Plano de Ensino - Planejamento - Aulas - GitHub
 - [x]  Apresentar os conceitos básicos de O.O.
 - [x]  Ferramentas 
-- [x]  Conceitos aprofundados
+- [x]  Conceitos ampliados
 
 [![Aulas no Youtube](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/cb3e2ea9547f9ddc831277f07919c3e78451eb92/yt-icon.png)](https://www.youtube.com/channel/UCfO-aJxKLqau0TnL0AfNAvA)
 
