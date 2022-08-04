@@ -79,14 +79,14 @@ Github – http://www.github.com
 
 ### Aulas
 
-- AGOSTO
+- << AGOSTO >>
 - [Roteiro específico da Aula - 09/08/2022](aula01.md)
 - [Roteiro específico da Aula - 11/08/2022](aula02.md)
-- [Roteiro específico da Aula - 16/10/2022](aula03.md)
-- [Roteiro específico da Aula - 18/10/2022](aula04.md)
-- [Roteiro específico da Aula - 23/11/2022](aula05.md)
-- [Roteiro específico da Aula - 25/11/2022](aula06.md)
-- [Roteiro específico da Aula - 30/11/2022](aula07.md)
+- [Roteiro específico da Aula - 16/08/2022](aula03.md)
+- [Roteiro específico da Aula - 18/08/2022](aula04.md)
+- [Roteiro específico da Aula - 23/08/2022](aula05.md)
+- [Roteiro específico da Aula - 25/08/2022](aula06.md)
+- [Roteiro específico da Aula - 30/08/2022](aula07.md)
 
 - SETEMBRO
 - [Roteiro específico da Aula - 16/11/2021](aula08.md)
