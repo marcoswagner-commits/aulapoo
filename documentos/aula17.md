@@ -1,6 +1,6 @@
 # Aula 17 - Programação Orientada a Objetos
 
-> Aula 16/12/2021
+> Aula 04/10/2022
 > 
 >  * Orientação a Objetos - Ambiente Gráfico *
 
