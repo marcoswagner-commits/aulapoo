@@ -108,8 +108,8 @@ Github – http://www.github.com
 - [Roteiro específico da Aula - 06/10/2022](aula18.md)
 - [Roteiro específico da Aula - 11/10/2022](aula19.md)
 - - [Roteiro específico da Aula - 13/10/2022] Apresentação de Trabalhos (Minecraft2D)
-- [Roteiro específico da Aula - 18/10/2022](aula20.md) - CONEPE
-- [Roteiro específico da Aula - 20/10/2022](aula20.md) - CONEPE
+- [Roteiro específico da Aula - 18/10/2022](aula20.md) - [CONEPE](https://conepe.ufj.edu.br)
+- [Roteiro específico da Aula - 20/10/2022](aula20.md) - [CONEPE](https://conepe.ufj.edu.br)
 - <<< Aplicações WEB >>>
 - [Roteiro específico da Aula - 25/02/2022](aula20.md)
 - [Roteiro específico da Aula - 27/02/2022](aula20.md)
