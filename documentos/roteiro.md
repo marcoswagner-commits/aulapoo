@@ -109,11 +109,20 @@ Github – http://www.github.com
 - [Roteiro específico da Aula - 27/02/2022](aula20.md)
 
 - << NOVEMBRO >>
-- [Roteiro específico da Aula - 10/02/2022](aula20.md)
-- [Roteiro específico da Aula - 15/02/2022](aula21.md)
-- [Roteiro específico da Aula - 17/02/2022](aula21.md)
-- - [Roteiro específico da Aula - 22/02/2022] Apresentação de Trabalhos (Padrões de Projetos)
-- - [Roteiro específico da Aula - 24/02/2022] Projeto de Prática em CG
+- [Roteiro específico da Aula - 01/11/2022](aula20.md)
+- [Roteiro específico da Aula - 03/11/2022](aula20.md)
+- [Roteiro específico da Aula - 08/11/2022](aula20.md)
+- [Roteiro específico da Aula - 10/11/2022](aula20.md)
+- [Roteiro específico da Aula - 15/11/2022](aula20.md)
+- [Roteiro específico da Aula - 17/11/2022](aula21.md)
+- [Roteiro específico da Aula - 22/11/2022](aula21.md)
+- [Roteiro específico da Aula - 24/11/2022](aula21.md)
+- [Roteiro específico da Aula - 29/11/2022](aula21.md)
+
+- << DEZEMBRO >>
+- [Roteiro específico da Aula - 01/12/2022](aula21.md)
+- - [Roteiro específico da Aula - 06/12/2022] Apresentação de Trabalhos (Padrões de Projetos)
+- - [Roteiro específico da Aula - 08/12/2022] Projeto de Prática em CG
 
 
 
