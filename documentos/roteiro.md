@@ -6,7 +6,8 @@
 	
 - [Plano_Ensino](https://github.com/marcoswagner-commits/aulapoo/files/9264140/Plano_Ensino_POO_2022.pdf)
 - [Planejamento do Semestre](https://github.com/marcoswagner-commits/aulapoo/files/9264141/Planejamento.do.Semestre_2022_POO.pdf)
-- [Conteúdo do Curso](Conteudo_POO.pdf)
+- [Conteudo do Curso](https://github.com/marcoswagner-commits/aulapoo/files/9268887/Conteudo_POO.pdf)
+
 
 ### 1.1 Conteúdos
 
