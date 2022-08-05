@@ -70,8 +70,11 @@ Github – http://www.github.com
 
 ### Trabalhos
 [Trabalho 1 - Lista de Exercícios](https://github.com/marcoswagner-commits/aulapoo/files/9262089/Trabalho.1.-.POO.pdf)
+
 [Trabalho 2 - Agenda de Atividades](https://github.com/marcoswagner-commits/aulapoo/files/9262088/Trabalho.2.-.POO.pdf)
+
 [Trabalho 3 - Minecraft2D](https://github.com/marcoswagner-commits/aulapoo/files/9262256/Trabalho.3.-.POO.pdf)
+
 [Trabalho 4 - Padrões de Projeto](https://github.com/marcoswagner-commits/aulapoo/files/9262254/Trabalho.4.-.POO.pdf)
 
 
