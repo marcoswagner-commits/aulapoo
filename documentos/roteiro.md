@@ -111,8 +111,8 @@ Github – http://www.github.com
 - [Roteiro específico da Aula - 18/10/2022](aula20.md) - [CONEPE](https://conepe.ufj.edu.br)
 - [Roteiro específico da Aula - 20/10/2022](aula20.md) - [CONEPE](https://conepe.ufj.edu.br)
 - <<< Aplicações WEB >>>
-- [Roteiro específico da Aula - 25/02/2022](aula20.md)
-- [Roteiro específico da Aula - 27/02/2022](aula20.md)
+- [Roteiro específico da Aula - 25/10/2022](aula20.md)
+- [Roteiro específico da Aula - 27/10/2022](aula20.md)
 
 
 - << NOVEMBRO >>
@@ -120,7 +120,6 @@ Github – http://www.github.com
 - [Roteiro específico da Aula - 03/11/2022](aula20.md)
 - [Roteiro específico da Aula - 08/11/2022](aula20.md)
 - [Roteiro específico da Aula - 10/11/2022](aula20.md)
-- [Roteiro específico da Aula - 15/11/2022](aula20.md)
 - <<< Padrões de Projeto >>>
 - [Roteiro específico da Aula - 17/11/2022](aula21.md)
 - [Roteiro específico da Aula - 22/11/2022](aula21.md)
