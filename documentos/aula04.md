@@ -2,7 +2,7 @@
 
 > Aula 18/08/2022
 > 
->  * Orientação a Objetos - Círculo *
+>  * Orientação a Objetos - Circunferência *
 
 ## Atividades da aula - roteiro
 - Abstração
