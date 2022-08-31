@@ -10,7 +10,7 @@
 - [Conceitos de Programação Orientada a Objetos](Conteudo_POO.pdf)
 
 ## Conceitos Ferramentais
-- IDE: Interface Developer Environment ou Ambiente de Desenvolvimento Integrado, é um software que combina ferramentas comuns de desenvolvimento em uma única interface gráfica do usuário (GUI), facilitando o desenvolvimento de aplicações. Um IDE geralmente consiste em:
+- IDE: Integrated Development Environment ou Ambiente de Desenvolvimento Integrado, é um software que combina ferramentas comuns de desenvolvimento em uma única interface gráfica do usuário (GUI), facilitando o desenvolvimento de aplicações. Um IDE geralmente consiste em:
 - - Editor de código-fonte: é um editor de texto que auxilia na criação de código de software por meio de funcionalidades como destaque da sintaxe com indicadores visuais, recurso de preenchimento automático específico da linguagem e verificação de bugs durante a criação.
 - - Automação de compilação local: são utilitários que automatizam tarefas simples e repetíveis durante a criação de uma compilação local do software usada pelo desenvolvedor. São tarefas como compilação de código-fonte em código binário, criação de pacotes de código binário e execução de testes automatizados.
 - - Debugger: é um programa usado para testar outros programas e mostrar graficamente a localização do bug no código original.
