@@ -262,4 +262,167 @@ Os métodos template são uma técnica fundamental para a reutilização de cód
 🥈:[![material complementar aula18](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=2HSGuIJj5FU)
 
 
+####  Códigos
+####  Códigos - Envio de E-mails
+'''
+package principal;
+
+import model.Usuario;
+import padroes.EmailService;
+
+public class CreateUser {
+    
+    private Usuario usuario;
+    private EmailService emailService;
+    
+    public CreateUser(Usuario usuario, EmailService emailService) {
+           this.usuario = usuario;
+           this.emailService = emailService;
+           enviaEmail();
+           
+    }
+
+    private void enviaEmail() {
+        emailService.confirmationEmail(usuario);
+    }
+    
+}
+
+=======/////
+
+package padroes;
+
+import model.Usuario;
+
+public abstract class AbstractEmailService implements EmailService {
+
+    private String sender;
+    private String subject;
+    private String moment;
+
+    public AbstractEmailService(String sender, String subject, String moment) {
+        this.sender = sender;
+        this.subject = subject;
+        this.moment = moment;
+    }
+    
+    
+    
+    protected String prepareMailService(Usuario obj) {
+        String msg = obj.getNome() +" - "+ obj.getEmail() +" - "+ "inserido com sucesso" +" - "+
+                this.sender +" - "+ this.subject +" - "+ this.moment;
+        return msg;
+    }
+    
+    @Override
+    public void confirmationEmail(Usuario obj) {
+        String simpleMail = prepareMailService(obj);
+        sendEmail(simpleMail);
+     }
+
+    @Override
+    public void sendEmail(String msg) {
+        
+    }
+    
+}
+
+=======/////
+
+
+package padroes;
+
+import model.Usuario;
+
+public interface EmailService {
+    
+    void confirmationEmail(Usuario obj);
+    
+    void sendEmail(String msg);
+    
+}
+
+=======/////
+
+
+package padroes;
+
+
+public class SenderMail extends AbstractEmailService {
+
+    public SenderMail(String sender, String subject, String moment) {
+        super(sender, subject, moment);
+    }
+    
+    @Override
+    public void sendEmail(String msg) {
+        System.out.println("Simulando o envio de um e-mail");
+        System.out.println(msg);
+        System.out.println("Email enviado...");
+    }
+    
+}
+
+=======/////
+
+package principal;
+
+import model.Usuario;
+import padroes.EmailService;
+
+public class CreateUser {
+    
+    private Usuario usuario;
+    private EmailService emailService;
+    
+    public CreateUser(Usuario usuario, EmailService emailService) {
+           this.usuario = usuario;
+           this.emailService = emailService;
+           enviaEmail();
+           
+    }
+
+    private void enviaEmail() {
+        emailService.confirmationEmail(usuario);
+    }
+    
+}
+
+=======/////
+
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package principal;
+
+import model.Usuario;
+import padroes.EmailService;
+import padroes.SenderMail;
+
+/**
+ *
+ * @author marcos_wagner
+ */
+public class Principal {
+
+    private static EmailService emailService() {
+        return new SenderMail("noreply@ufj.edu.br","CADASTRO","09:00:00");
+    }
+    
+    public static void main(String[] args) {
+        Usuario usuario = new Usuario("Marcos Wagner","marcos@gmail.com");
+        new CreateUser(usuario, emailService());
+        
+        
+    }
+
+    
+    
+}
+
+
+'''
+
 
