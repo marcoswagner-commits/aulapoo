@@ -192,7 +192,7 @@ Solução: fazer com que a própria classe seja responsável pela manutenção d
 - [ ]  Criar uma classe "Usuario" (no pacote model)
 - [ ]  Criar na classe "Usuario" os atributos (nome e email) e métodos (construtor, getters, setters)
 - [ ]  Criar uma interface "EmailService" (no pacote padroes) 
-- [ ]  Criar na interface "EmailService" um método "confirmationEmail" ainda sem argumentos
+- [ ]  Criar na interface "EmailService" um método "confirmationEmail" com parâmetro a classe Usuario
 - [ ]  Criar na interface "EmailService" um método "sendEmail" com parâmetro (String msg)
 - [x]  Detalhar o padrão (Template Method)
 - [ ]  Criar uma classe abstrata "AbstractEmailService" que irá implementar a interface "EmailService"
