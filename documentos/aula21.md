@@ -279,10 +279,10 @@ Os métodos template são uma técnica fundamental para a reutilização de cód
     - [ ]  IVeiculo veiculo = criTransporte(); veiculo.iniciaRota();
 - [ ]  
 - [ ]  Criar a classe CarroTransporte e estender a classe Tranporte (dentro do pacote veiculo)
-- [ ]  Implementar o método criaTransporte retornando uma instância de Carro
+- [ ]  Implementar o método criaTransporte retornando uma instância de Carro (return new Carro())
 - [ ]  
 - [ ]  Criar a classe MotoTransporte e estender a classe Tranporte (dentro do pacote veiculo)
-- [ ]  Implementar o método criaTransporte retornando uma instância de Moto
+- [ ]  Implementar o método criaTransporte retornando uma instância de Moto (return new Moto())
 - [ ]  
 - [ ]  Testar na classe principal o funcionamento da aplicação/padrão
 
