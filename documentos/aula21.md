@@ -287,6 +287,22 @@ Os métodos template são uma técnica fundamental para a reutilização de cód
 - [ ]  Testar na classe principal o funcionamento da aplicação/padrão
 
 
+#### Factory Method
+O Factory Method tem como objetivo de isolar código de criação (aquele que utiliza o new) das classes de negócio (classe específicas que possui toda a lógica do processo) do projeto.
+
+O Factory Method delega a implementação do código de criação para as suas subclasses ou classes que o implementam (ou seja, Interface). Portanto pode-se trabalhar com o Factory Method por meio de uma Interface.
+
+Porém, quando implementado via Interface, em algumas linguagens pode-se perder o poder de além de ter a assinatura de como deve ser o método de criação, ter também a definição de alguns métodos comuns as classes que implementam o Factory Method.
+
+##### Diagrama:
+![image](https://user-images.githubusercontent.com/81576640/204369157-15dd54c6-a635-4f8e-8e93-6f97f06e0a9b.png)
+
+Diagrama do padrão de projeto Factory Method
+
+
+As subclasses de uma Factory abstrata, digo, as subclasses concretas, são também conhecidas como fábricas concretas ou concrete factories.
+
+Os códigos para gerarem as instâncias de classes do domínio do problema estão alocados  nos métodos fábrica das classes ConcreteFactory_1 e ConcreteFactory_2.
 
 
 
