@@ -253,6 +253,41 @@ AbstractClass – define as operações primitivas e abstratas que representam o
 ConcreteClass – implementa as operações específicas definidas na superclasse com o código específico.
 Os métodos template são uma técnica fundamental para a reutilização de código. Eles conduzem a uma estrutura de inversão de controle em inglês Inversion of Control IoC ou princípio da dependência inversa, comumente conhecida como “o princípio de Hollywood”, ou seja: “não nos chame, nós chamaremos você”. Isto se refere a como uma classe-mãe chama as operações de uma subclasse, e não o contrário.
 
+
+### Passo 3: Outro exemplo simples de um Padrão de Projeto (Factory Method)
+- [x]  Detalhar o padrão (Factory Method)
+- [x]  Criando um Projeto para Factory Method
+- [ ]  Criar um pacote específico Factory (main estará neste pacote)
+- [ ]  Criar um pacote com o nome Veículo
+- [ ]  Dentro do pacote Veiculo criar uma INTERFACE IVeiculo
+- [ ]  Dentro da interface criar dois métodos (apenas assinatura): iniciaRota e coletaCarga, ambos vazios no retorno e no parâmetro
+- [ ]  
+- [ ]  Criar uma classe Carro no pacote Veiculo que implementa IVeiculo
+- [ ]  Implementar os dois métodos abstratos da interface (iniciaRota com chamada ao método coletaCarga)
+- [ ]  Colocar mensagens nos dois métodos (iniciaRota: "Iniciando a rota..." - coletaCarga: "Passageiros no veículo...")
+- [ ]  
+- [ ]  
+- [ ]  Criar uma classe Moto no pacote Veiculo que implementa IVeiculo
+- [ ]  Implementar os dois métodos abstratos da interface (iniciaRota com chamada ao método coletaCarga)
+- [ ]  Colocar mensagens nos dois métodos (iniciaRota: "Iniciando a entrega..." - coletaCarga: "Objetos no veículo...")
+- [ ]  
+- [x]  Criar uma classe abstrata Transporte dentro do pacote Factory
+- [ ]  Criar um método iniciaTransporte dentro da classe Transporte 
+- [ ]  Criar um método abstrato do tipo IVeiculo criaTransporte (apenas assinatura)
+- [ ]  Criar dentro do método iniciaTransporte uma chamada ao método criaTransporte - não há a criação de um instância em si, mas sim de uma fábrica 
+- [ ]  
+- [ ]  Criar a classe CarroTransporte e estender a classe Tranporte
+- [ ]  Implementar o método criaTransporte retornando uma instância de Carro
+- [ ]  
+- [ ]  Criar a classe MotoTransporte e estender a classe Tranporte
+- [ ]  Implementar o método criaTransporte retornando uma instância de Moto
+- [ ]  
+- [ ]  Testar na classe principal o funcionamento da aplicação/padrão
+
+
+
+
+
 [![Aulas no Youtube](https://github.com/marcoswagner-commits/gestao_obras_aula_daw/blob/cb3e2ea9547f9ddc831277f07919c3e78451eb92/yt-icon.png)](https://www.youtube.com/channel/UCfO-aJxKLqau0TnL0AfNAvA)
 
 ####  Os vídeos abaixo mostram a implementação do programa
@@ -260,6 +295,9 @@ Os métodos template são uma técnica fundamental para a reutilização de cód
 🥇:[![material complementar aula18](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=as2xYdNm2ao)
 -
 🥈:[![material complementar aula18](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=2HSGuIJj5FU)
+
+
+
 
 
 ####  Códigos
