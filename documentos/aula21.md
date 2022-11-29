@@ -261,16 +261,16 @@ Os métodos template são uma técnica fundamental para a reutilização de cód
 - [ ]  Criar um pacote com o nome Veículo
 - [ ]  Dentro do pacote Veiculo criar uma INTERFACE IVeiculo
 - [ ]  Dentro da interface criar dois métodos (apenas assinatura): iniciaRota e coletaCarga, ambos vazios no retorno e no parâmetro
-- [ ]  
+- [ ]  -
 - [ ]  Criar uma classe Carro no pacote Veiculo que implementa IVeiculo
 - [ ]  Implementar os dois métodos abstratos da interface (iniciaRota com chamada ao método coletaCarga)
 - [ ]  Colocar mensagens nos dois métodos (iniciaRota: "Iniciando a rota..." - coletaCarga: "Passageiros no veículo...")
-- [ ]  
-- [ ]  
+- [ ]  -
+- [ ]  -
 - [ ]  Criar uma classe Moto no pacote Veiculo que implementa IVeiculo
 - [ ]  Implementar os dois métodos abstratos da interface (iniciaRota com chamada ao método coletaCarga)
 - [ ]  Colocar mensagens nos dois métodos (iniciaRota: "Iniciando a entrega..." - coletaCarga: "Objetos no veículo...")
-- [ ]  
+- [ ]  -
 - [x]  Criar uma classe abstrata Transporte dentro do pacote Factory
 - [ ]  Criar um método iniciaTransporte dentro da classe Transporte (void iniciaTransporte ())
 - [ ]  Criar um método abstrato do tipo IVeiculo criaTransporte (apenas assinatura - protected abstract IVeiculo criaTransporte)
@@ -280,11 +280,11 @@ Os métodos template são uma técnica fundamental para a reutilização de cód
 - [ ]  
 - [ ]  Criar a classe CarroTransporte e estender a classe Tranporte (dentro do pacote veiculo)
 - [ ]  Implementar o método criaTransporte retornando uma instância de Carro (return new Carro())
-- [ ]  
+- [ ]  -
 - [ ]  Criar a classe MotoTransporte e estender a classe Tranporte (dentro do pacote veiculo)
 - [ ]  Implementar o método criaTransporte retornando uma instância de Moto (return new Moto())
-- [ ]  
-- [ ]  Testar na classe principal o funcionamento da aplicação/padrão
+- [ ]  -
+- [ ]  Testar na classe principal o funcionamento da aplicação/padrão ( transporte = new MotoTransporte(); transporte.iniciaTransporte();)
 
 
 #### Factory Method
