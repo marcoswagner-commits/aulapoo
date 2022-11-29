@@ -276,8 +276,8 @@ Os métodos template são uma técnica fundamental para a reutilização de cód
 - [ ]  Criar um método abstrato do tipo IVeiculo criaTransporte (apenas assinatura - protected abstract IVeiculo criaTransporte)
 - [ ]  Criar dentro do método iniciaTransporte uma chamada ao método criaTransporte 
     - [ ]  não há a criação de um instância em si, mas sim de uma fábrica 
-    - [ ]  IVeiculo veiculo = criTransporte(); veiculo.iniciaRota();
-- [ ]  
+    - [ ]  IVeiculo veiculo = criaTransporte(); veiculo.iniciaRota();
+- [ ]  -
 - [ ]  Criar a classe CarroTransporte e estender a classe Tranporte (dentro do pacote veiculo)
 - [ ]  Implementar o método criaTransporte retornando uma instância de Carro (return new Carro())
 - [ ]  -
