@@ -1,6 +1,6 @@
 # Aula 14 - Programação Orientada a Objetos
 
-> Aula 07 e 10/08/2023
+> Aula 10/08/2023
 > 
 >  * Orientação a Objetos - Interfaces Gráficas. *
 
