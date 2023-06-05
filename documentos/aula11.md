@@ -1,6 +1,6 @@
 # Aula 11 - Programação Orientada a Objetos
 
-> Aula 13/09/2022
+> Aula 31/07/2023
 > 
 >  * Orientação a Objetos - Interfaces Gráficas. *
 
@@ -33,7 +33,7 @@
    - Conceitos de Frame (JFrame)
    - Janelas (Título - Tamanho - Posição - Fechamento - Visibilidade)
 - [ ]  Primeiros Componentes
-   - Desenhando/Projetando a Janela (EdrawMax)
+   - Desenhando/Projetando a Janela
    - Principais componentes (Painéis - Rótulos - Campos - Botões)
 - [x]  Enviar para o GitHub (Clientes Interfaces1) 
 
