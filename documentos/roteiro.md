@@ -102,11 +102,11 @@ Github – http://www.github.com
 - [Roteiro específico da Aula - 10/07/2023](aula09.md)
 - - [Roteiro específico da Aula - 13/07/2023] Apresentação de Trabalhos (Kahoot e Lista de Exercícios)
 - <<< Interfaces Gráficas >>>
-- [Roteiro específico da Aula - 31/07/2023](aula10.md)
+- [Roteiro específico da Aula - 13/09/2022](aula11.md)
 
 
 - << AGOSTO >>
-- [Roteiro específico da Aula - 13/09/2022](aula11.md)
+
 - [Roteiro específico da Aula - 15/09/2022](aula12.md)
 - [Roteiro específico da Aula - 20/09/2022](aula13.md)
 - [Roteiro específico da Aula - 22/09/2022](aula14.md)
