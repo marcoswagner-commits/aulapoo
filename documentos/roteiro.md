@@ -98,11 +98,11 @@ Github – http://www.github.com
 
 - << JULHO >>
 - [Roteiro específico da Aula - 03/07/2023](aula07.md)
-- [Roteiro específico da Aula - 06/06/2023](aula08.md)
+- [Roteiro específico da Aula - 06/07/2023](aula08.md)
 - [Roteiro específico da Aula - 10/07/2023](aula09.md)
 - - [Roteiro específico da Aula - 13/07/2023] Apresentação de Trabalhos (Kahoot e Lista de Exercícios)
 - <<< Interfaces Gráficas >>>
-- [Roteiro específico da Aula - 31/08/2023](aula10.md)
+- [Roteiro específico da Aula - 31/07/2023](aula10.md)
 
 
 - << AGOSTO >>
