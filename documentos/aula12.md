@@ -1,6 +1,6 @@
 # Aula 12 - Programação Orientada a Objetos
 
-> Aula 15/09/2022
+> Aula 03/08/2023
 > 
 >  * Orientação a Objetos - Interfaces Gráficas. *
 
