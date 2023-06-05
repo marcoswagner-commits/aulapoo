@@ -1,6 +1,6 @@
 # Aula 08 - Programação Orientada a Objetos
 
-> Aula 01/09/2022
+> Aula 10/07/2023
 > 
 >  * Orientação a Objetos - Modificadores de acesso (public, private e protected). 
 >  Abstract, Final – Métodos e Atributos estáticos (static). 
@@ -23,7 +23,9 @@
 ### Passo 1: Criação da aplicação
 - [x]  Criar um Projeto
 - [x]  Criar a classe 
-- [x]  Atributos - Métodos
+- [x]  Atributos 
+- [x]  Atributo estático
+- [x]  Métodos
 - [x]  Construtores
 - [x]  Gets/Sets/ToString
 - [x]  Enviar para o GitHub (clientes1) 
