@@ -1,11 +1,13 @@
 # Aula de Programação Orientada a Objetos - Curso de Ciências da Computação - UFJ
-# Roteiro de Aula – 2022/1
+# Roteiro de Aula – 2023/1
 
 ## 1 - Apresentação da disciplina: Plano de Ensino – Conteúdos – Metodologia – Avaliações
 	* Vide Plano de Ensino; Planejamento da Disciplina; documento Conteúdos
 	
 - [Plano_Ensino_POO_2022.pdf](https://github.com/marcoswagner-commits/aulapoo/files/9269376/Plano_Ensino_POO_2022.pdf)
 - [Planejamento do Semestre_2022_POO.pdf](https://github.com/marcoswagner-commits/aulapoo/files/9269375/Planejamento.do.Semestre_2022_POO.pdf)
+
+
 - [Conteudo do Curso](https://github.com/marcoswagner-commits/aulapoo/files/9268887/Conteudo_POO.pdf)
 
 
@@ -81,20 +83,23 @@ Github – http://www.github.com
 
 ### Aulas
 
-- << AGOSTO >>
+- << JUNHO >>
 - <<< Conceitos Básicos e Aplicações >>>
-- [Roteiro específico da Aula - 09/08/2022](aula01.md)
-- [Roteiro específico da Aula - 11/08/2022](aula02.md)
-- [Roteiro específico da Aula - 16/08/2022](aula03.md)
-- [Roteiro específico da Aula - 18/08/2022](aula04.md)
-- [Roteiro específico da Aula - 23/08/2022](aula05.md)
-- [Roteiro específico da Aula - 25/08/2022](aula06.md)
-- [Roteiro específico da Aula - 30/08/2022](aula07.md)
+- - - [Roteiro específico da Aula - 05/06/2023] Recepção Alunado
+- [Roteiro específico da Aula - 12/06/2023](aula01.md)
+- [Roteiro específico da Aula - 15/06/2023](aula02.md)
+- [Roteiro específico da Aula - 19/06/2023](aula03.md)
+- [Roteiro específico da Aula - 22/06/2023](aula04.md)
+- [Roteiro específico da Aula - 26/06/2023](aula05.md)
+- [Roteiro específico da Aula - 29/06/2023](aula06.md)
 
 
-- << SETEMBRO >>
-- [Roteiro específico da Aula - 01/09/2022](aula08.md)
-- [Roteiro específico da Aula - 06/09/2022](aula09.md)
+
+
+- << JULHO >>
+- [Roteiro específico da Aula - 03/07/2023](aula07.md)
+- [Roteiro específico da Aula - 06/06/2023](aula08.md)
+- [Roteiro específico da Aula - 10/06/2023](aula09.md)
 - - [Roteiro específico da Aula - 08/09/2022] Apresentação de Trabalhos (Kahoot e Lista de Exercícios)
 - <<< Interfaces Gráficas >>>
 - [Roteiro específico da Aula - 13/09/2022](aula11.md)
