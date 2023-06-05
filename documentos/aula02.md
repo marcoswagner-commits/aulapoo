@@ -1,6 +1,6 @@
 # Aula 02 - Programação Orientada a Objetos
 
-> Aula 11/10/2022
+> Aula 15/06/2023
 > 
 >  * Conceitos Básicos de Orientação a Objetos *
 
