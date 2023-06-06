@@ -1,6 +1,6 @@
 # Aula 21 - Programação Orientada a Objetos
 
-> Aula 17/11 a 01/12
+> Aulas 21 a 28/09/2023
 > 
 >  * Orientação a Objetos - Padrões de Projeto*
 
