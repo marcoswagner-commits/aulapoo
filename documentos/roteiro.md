@@ -109,6 +109,7 @@ Github – http://www.github.com
 - [Roteiro específico da Aula - 10/08/2023](aula14.md)
 - - [Roteiro específico da Aula - 14/08/2023] Apresentação de Trabalhos (Interface Gráfica)
 - - [Roteiro específico da Aula - 17/08/2023] Projeto de Prática em CG
+- [] <<< Pacote Gráfico >>>
 - [Roteiro específico da Aula - 21/08/2023](aula17.md)
 - [Roteiro específico da Aula - 24/08/2023](aula18.md)
 - [Roteiro específico da Aula - 28/08/2023](aula19.md)
@@ -116,22 +117,13 @@ Github – http://www.github.com
 
 
 #### << SETEMBRO >>
-- [] <<< Pacote Gráfico >>>
-- [Roteiro específico da Aula - 18/10/2022](aula20.md) 
-- [Roteiro específico da Aula - 20/10/2022](aula20.md) 
-- <<< Aplicações WEB >>>
-- [Roteiro específico da Aula - 25/10/2022](aula20.md)
-- [Roteiro específico da Aula - 27/10/2022](aula20.md)
 
-
-- [Roteiro específico da Aula - 01/11/2022](aula20.md)
-- [Roteiro específico da Aula - 03/11/2022](aula20.md)
-- [Roteiro específico da Aula - 08/11/2022](aula20.md)
-- [Roteiro específico da Aula - 10/11/2022](aula20.md)
+- [] <<< Aplicações WEB >>>
+- [Roteiro específico da Aula - 04/09/2023](aula20.md) 
+- [Roteiro específico da Aula - 11/09/2023](aula20.md) 
+- [Roteiro específico da Aula - 14/09/2023](aula20.md)
+- [Roteiro específico da Aula - 18/09/2023](aula20.md)
 - [] <<< Padrões de Projeto >>>
-- [Roteiro específico da Aula - 14/09/2023](aula21.md)
-- [Roteiro específico da Aula - 18/09/2023](aula21.md)
-- 
 - [Roteiro específico da Aula - 21/09/2023](aula21.md)
 - [Roteiro específico da Aula - 25/09/2023](aula21.md)
 - [Roteiro específico da Aula - 28/09/2023](aula21.md)
