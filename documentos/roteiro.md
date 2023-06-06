@@ -124,17 +124,17 @@ Github – http://www.github.com
 - [Roteiro específico da Aula - 27/10/2022](aula20.md)
 
 
-
 - [Roteiro específico da Aula - 01/11/2022](aula20.md)
 - [Roteiro específico da Aula - 03/11/2022](aula20.md)
 - [Roteiro específico da Aula - 08/11/2022](aula20.md)
 - [Roteiro específico da Aula - 10/11/2022](aula20.md)
-- <<< Padrões de Projeto >>>
-- [Roteiro específico da Aula - 17/11/2022](aula21.md)
-- [Roteiro específico da Aula - 22/11/2022](aula21.md)
-- [Roteiro específico da Aula - 24/11/2022](aula21.md)
-- [Roteiro específico da Aula - 29/11/2022](aula21.md)
-- [Roteiro específico da Aula - 01/12/2022](aula21.md)
+- [] <<< Padrões de Projeto >>>
+- [Roteiro específico da Aula - 14/09/2023](aula21.md)
+- [Roteiro específico da Aula - 18/09/2023](aula21.md)
+- 
+- [Roteiro específico da Aula - 21/09/2023](aula21.md)
+- [Roteiro específico da Aula - 25/09/2023](aula21.md)
+- [Roteiro específico da Aula - 28/09/2023](aula21.md)
 
 
 #### << OUTUBRO >>
