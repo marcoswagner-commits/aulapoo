@@ -4,8 +4,8 @@
 ## 1 - Apresentação da disciplina: Plano de Ensino – Conteúdos – Metodologia – Avaliações
 	* Vide Plano de Ensino; Planejamento da Disciplina; documento Conteúdos
 	
-- [Plano_Ensino_POO_2022.pdf](https://github.com/marcoswagner-commits/aulapoo/files/9269376/Plano_Ensino_POO_2022.pdf)
-- [Planejamento do Semestre_2022_POO.pdf](https://github.com/marcoswagner-commits/aulapoo/files/9269375/Planejamento.do.Semestre_2022_POO.pdf)
+- [Plano_Ensino_POO_2023.pdf](https://github.com/marcoswagner-commits/aulapoo/files/9269376/Plano_Ensino_POO_2023.pdf)
+- [Planejamento do Semestre_2023_POO.pdf](https://github.com/marcoswagner-commits/aulapoo/files/9269375/Planejamento.do.Semestre_2023_POO.pdf)
 
 
 - [Conteudo do Curso](https://github.com/marcoswagner-commits/aulapoo/files/9268887/Conteudo_POO.pdf)
