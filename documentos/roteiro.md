@@ -77,7 +77,7 @@ Github – http://www.github.com
 
 [Trabalho 3 - Minecraft2D](https://github.com/marcoswagner-commits/aulapoo/blob/ed52cca405056cbdbb0c890e99bea0984144e100/documentos/Trabalho%203%20-%20POO.pdf)
 
-[Trabalho 4 - Padrões de Projeto](https://github.com/marcoswagner-commits/aulapoo/blob/ed52cca405056cbdbb0c890e99bea0984144e100/documentos/Trabalho%204%20-%20POO.pdf)
+[Trabalho 4 - Padrões de Projeto](https://github.com/marcoswagner-commits/aulapoo/blob/b7d4a55fd3d88cc30baa71363f947f15cde7c1f7/documentos/Trabalho%204%20-%20POO.pdf)
 
 
 
