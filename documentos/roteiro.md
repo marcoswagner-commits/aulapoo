@@ -5,7 +5,7 @@
 	* Vide Plano de Ensino; Planejamento da Disciplina; documento Conteúdos
 	
 - [Plano_Ensino_POO_2023.pdf](https://github.com/marcoswagner-commits/aulapoo/files/9269376/Plano_Ensino_POO_2023.pdf)
-- [Planejamento do Semestre_2023_POO.pdf](https://github.com/marcoswagner-commits/aulapoo/files/9269375/Planejamento.do.Semestre_2023_POO.pdf)
+- [Planejamento do Semestre_2023_POO.pdf](https://github.com/marcoswagner-commits/aulapoo/blob/d5338ce2770e612f5329648d43b346cf730aa6ac/documentos/Planejamento%20do%20Semestre_2023_POO.pdf)
 
 
 - [Conteudo do Curso](https://github.com/marcoswagner-commits/aulapoo/files/9268887/Conteudo_POO.pdf)
