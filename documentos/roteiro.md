@@ -83,8 +83,8 @@ Github – http://www.github.com
 
 ### Aulas
 
-- << JUNHO >>
-- <<< Conceitos Básicos e Aplicações >>>
+#### << JUNHO >>
+- [] <<< Conceitos Básicos e Aplicações >>>
 - - - [Roteiro específico da Aula - 05/06/2023] Recepção Alunado
 - [Roteiro específico da Aula - 12/06/2023](aula01.md)
 - [Roteiro específico da Aula - 15/06/2023](aula02.md)
@@ -94,18 +94,15 @@ Github – http://www.github.com
 - [Roteiro específico da Aula - 29/06/2023](aula06.md)
 
 
-
-
-- << JULHO >>
+#### << JULHO >>
 - [Roteiro específico da Aula - 03/07/2023](aula07.md)
 - [Roteiro específico da Aula - 06/07/2023](aula08.md)
 - [Roteiro específico da Aula - 10/07/2023](aula09.md)
 - - [Roteiro específico da Aula - 13/07/2023] Apresentação de Trabalhos (Kahoot e Lista de Exercícios)
-- <<< Interfaces Gráficas >>>
+- [] <<< Interfaces Gráficas >>>
 - [Roteiro específico da Aula - 31/07/2023](aula11.md)
 
-
-- << AGOSTO >>
+#### << AGOSTO >>
 
 - [Roteiro específico da Aula - 03/08/2023](aula12.md)
 - [Roteiro específico da Aula - 07/08/2023](aula13.md)
@@ -118,18 +115,16 @@ Github – http://www.github.com
 - - [Roteiro específico da Aula - 31/08/2023] Apresentação de Trabalhos (Minecraft2D)
 
 
-- << OUTUBRO >>
-- <<< Pacote Gráfico >>>
-
-
-- [Roteiro específico da Aula - 18/10/2022](aula20.md) - [CONEPE](https://conepe.ufj.edu.br)
-- [Roteiro específico da Aula - 20/10/2022](aula20.md) - [CONEPE](https://conepe.ufj.edu.br)
+#### << SETEMBRO >>
+- [] <<< Pacote Gráfico >>>
+- [Roteiro específico da Aula - 18/10/2022](aula20.md) 
+- [Roteiro específico da Aula - 20/10/2022](aula20.md) 
 - <<< Aplicações WEB >>>
 - [Roteiro específico da Aula - 25/10/2022](aula20.md)
 - [Roteiro específico da Aula - 27/10/2022](aula20.md)
 
 
-- << NOVEMBRO >>
+
 - [Roteiro específico da Aula - 01/11/2022](aula20.md)
 - [Roteiro específico da Aula - 03/11/2022](aula20.md)
 - [Roteiro específico da Aula - 08/11/2022](aula20.md)
@@ -139,12 +134,13 @@ Github – http://www.github.com
 - [Roteiro específico da Aula - 22/11/2022](aula21.md)
 - [Roteiro específico da Aula - 24/11/2022](aula21.md)
 - [Roteiro específico da Aula - 29/11/2022](aula21.md)
-
-
-- << DEZEMBRO >>
 - [Roteiro específico da Aula - 01/12/2022](aula21.md)
-- - [Roteiro específico da Aula - 06/12/2022] Apresentação de Trabalhos (Padrões de Projetos)
-- - [Roteiro específico da Aula - 08/12/2022] Projeto de Prática em CG
+
+
+#### << OUTUBRO >>
+
+- - [Roteiro específico da Aula - 02/10/2023] Apresentação de Trabalhos (Padrões de Projetos)
+- - [Roteiro específico da Aula - 05/10/2023] Projeto de Prática em CG
 
 
 
