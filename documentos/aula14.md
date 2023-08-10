@@ -72,7 +72,9 @@
 - [X]  Configurar na janela "Persistence" o arquivo "persistence.xml" colocando os parâmetros para criação do Schema/DataBase - vide código
 - [X]  Criar código para testar a persistência da classe/entidade (Cliente) - vide código abaixo EntityManager e EntityManagerFactory
 - [X]  Rodar a aplicação - Usar o DBBrowser do IntelliJ (instalar caso não esteja instalado)
-- [X]  Verificar se foi criado o Database - Tabela - Registros  
+- [X]  Verificar se foi criado o Database - Tabela - Registros
+- [ ]  Criar um pacote View - criar uma Swing UI Designer - GUI Form (CadClientes)
+- [ ]  
 
 
 #### Parâmetros para acesso e criação do banco de dados
