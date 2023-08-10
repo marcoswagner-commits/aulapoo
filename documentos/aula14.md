@@ -78,13 +78,13 @@
 #### Parâmetros para acesso e criação do banco de dados
 ```
 <properties>
-            <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver" />
-            <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/CadCli" />
-            <property name="jakarta.persistence.jdbc.user" value="root" />
-            <property name="jakarta.persistence.jdbc.password" value="" />
-            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQL8Dialect" />
-            <property name="jakarta.persistence.schema-generation.database.action" value="drop-and-create"/>
-        </properties>
+  <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver" />
+  <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/CadCli?createDatabaseIfNotExist=true" />
+  <property name="jakarta.persistence.jdbc.user" value="root" />
+  <property name="jakarta.persistence.jdbc.password" value="coswagsql" />
+  <property name="hibernate.dialect" value="org.hibernate.dialect.MySQL8Dialect" />
+  <property name="jakarta.persistence.schema-generation.database.action" value="drop-and-create"/>
+</properties>
 ```
 
 #### Código para persistir entidade no banco de dados
