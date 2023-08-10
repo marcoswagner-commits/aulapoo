@@ -55,4 +55,17 @@
 🥈:[![material complementar aula14](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=DJU-Z8cjYjw)
 
 
+## Uma outra abordagem com IntelliJ Idea
 
+### Passos: Aplicação Completa (Controle de Clientes)
+- [X]  Novo Projeto - Opção Jakarta EE
+  - [ ]  Opções importantes - Template: Library - Language: Java - Build: Maven (... next)
+  - [ ]  Outras opções - Specifications: Persistence (JPA) - Implementations: Hibernate (... create)
+  - [ ]  Estrutura (maven) primária criada: .idea .mvn .src ... pom.xml (arquivo de dependências e configurações)
+- [X]  Inserir no arquivo pom.xml a dependência para o MySQL (mysql-connector-j) - Sincronizar
+- [X]  Abrir janela de Persistência (Control+Shift+A) - Persistence
+- [X]  Apropriar-se do arquivo default (clicar opção c3 mouse - new Entity)
+- [X]  Criar a classe (Cliente) e o pacote (Model)
+- [X]  Criar na classe os atributos (codigo: int, nome: string, email: string)
+- [X]  Criar os contrutores, getters/setters, toString, hashCode e Equals
+- [ ]  
