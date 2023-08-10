@@ -68,4 +68,17 @@
 - [X]  Criar a classe (Cliente) e o pacote (Model)
 - [X]  Criar na classe os atributos (codigo: int, nome: string, email: string)
 - [X]  Criar os contrutores, getters/setters, toString, hashCode e Equals
-- [ ]  
+- [ ]  Criar uma classe principal (para testes e verificar a criação dos objetos e entidades no banco de dados)
+- [ ]  Configurar
+- [ ]  Criar código para testar a persistência da classe/entidade (Cliente) - vide código abaixo EntityManager e EntityManagerFactory
+
+
+
+
+```
+Teste de código
+```
+
+
+
+
