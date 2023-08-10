@@ -68,15 +68,34 @@
 - [X]  Criar a classe (Cliente) e o pacote (Model)
 - [X]  Criar na classe os atributos (codigo: int, nome: string, email: string)
 - [X]  Criar os contrutores, getters/setters, toString, hashCode e Equals
-- [ ]  Criar uma classe principal (para testes e verificar a criação dos objetos e entidades no banco de dados)
-- [ ]  Configurar
-- [ ]  Criar código para testar a persistência da classe/entidade (Cliente) - vide código abaixo EntityManager e EntityManagerFactory
+- [X]  Criar uma classe principal (para testes e verificar a criação dos objetos e entidades no banco de dados)
+- [X]  Configurar na janela "Persistence" o arquivo "persistence.xml" colocando os parâmetros para criação do Schema/DataBase - vide código
+- [X]  Criar código para testar a persistência da classe/entidade (Cliente) - vide código abaixo EntityManager e EntityManagerFactory
+- [X]  Rodar a aplicação - Usar o DBBrowser do IntelliJ (instalar caso não esteja instalado)
+- [X]  Verificar se foi criado o Database - Tabela - Registros  
 
 
-
-
+#### Parâmetros para acesso e criação do banco de dados
 ```
-Teste de código
+<properties>
+            <property name="jakarta.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver" />
+            <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/CadCli" />
+            <property name="jakarta.persistence.jdbc.user" value="root" />
+            <property name="jakarta.persistence.jdbc.password" value="" />
+            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQL8Dialect" />
+            <property name="jakarta.persistence.schema-generation.database.action" value="drop-and-create"/>
+        </properties>
+```
+
+#### Código para persistir entidade no banco de dados
+```
+    EntityManagerFactory emf = Persistence.createEntityManagerFactory("default");
+    EntityManager em = emf.createEntityManager();
+    em.getTransaction().begin();
+    em.persist(cliente);
+    em.getTransaction().commit();
+    em.close();
+    emf.close();
 ```
 
 
