@@ -46,5 +46,123 @@
 -
 🥈:[![material complementar aula18](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=2FiSekBqPXw)
 
+```
+
+package graphics;
+
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;
+import javax.swing.JFrame;
+
+public class Janela extends JFrame implements KeyListener {
+
+    Grafico grafico = new Grafico(0);
+    
+    public Janela() {
+        
+        
+        this.add(grafico);
+                
+        this.addKeyListener(this);
+        
+        this.setTitle("Primeiros gráficos");
+        
+        this.setDefaultCloseOperation(EXIT_ON_CLOSE);
+        this.setLocationRelativeTo(null);
+        this.setVisible(true);
+        
+        
+    }
+
+    @Override
+    public void keyTyped(KeyEvent e) {
+        
+    }
+
+    @Override
+    public void keyPressed(KeyEvent e) {
+        if (e.getKeyCode() == KeyEvent.VK_LEFT)
+            grafico.setDir(1);
+        if (e.getKeyCode() == KeyEvent.VK_RIGHT)
+            grafico.setDir(0);
+        
+    }
+
+    @Override
+    public void keyReleased(KeyEvent e) {
+        
+    }
+    
+}
+
+====
+
+package graphics;
+
+import java.awt.Color;
+import java.awt.Graphics;
+import javax.swing.JComponent;
+import javax.swing.JOptionPane;
+
+
+public class Grafico extends JComponent implements Runnable {
+
+    private int px, py;
+    private int dir;
+    
+    
+    public Grafico(int dir) {
+        new Thread(this).start();
+        px = 200; py = 200;
+        this.dir = dir;
+       
+    }
+    
+    public void setDir(int dir) {
+        this.dir = dir;
+    }
+    
+    @Override
+    public void paint(Graphics g) {
+        g.setColor(Color.red);
+        g.fillRect(px, py, 40, 40);
+        
+        
+    }
+
+    @Override
+    public void run() {
+        while (true) {
+            if (dir == 0)
+                 {   px+=1;
+                     if (px+45 > 400)
+                       {
+                           JOptionPane.showMessageDialog(null, "Você perdeu!");
+                            dir = 1;
+                        }
+                  }
+            else
+                { 
+                   px-=1;
+                   if (px < 5)
+                   { 
+                      JOptionPane.showMessageDialog(null, "Você perdeu!");
+                      dir = 1;
+                    }
+                }
+                
+            try {
+                Thread.sleep(5);
+            } catch (InterruptedException ex) {
+                
+            }
+            repaint();
+        }
+    }
+    
+    
+}
+
+``
 
 
