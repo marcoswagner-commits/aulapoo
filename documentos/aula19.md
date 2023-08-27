@@ -39,5 +39,128 @@
 🥇:[![material complementar aula19](Capa_Videos_POO.png)](https://www.youtube.com/watch?v=8VTcba0gU3E)
 
 
+### Passo 2: Roteiro de um MineCraft 2D
+- [x] Criar uma estrutura de painéis (size 400 - cols 20 - rows - 20)
+- [x] Criar caminhos para as imagens (avatar = "./src/imgs/avatar.png") - grama, terra, tijolo, flores
+- [x] Criar uma classe MyPanel para colocar e desenhar o painel com atributo (ImageIcon)
+    - g.drawImage(icon.getImage(),0,0,this.getWidth(),this.getHeight(),null);
+- [x] Criar um vetor de inteiros para armazenar a tipo de bloco (int[] tipoBloco)
+- [x] Associar os caminhos das imagens a ImageIcon
+- [x] Criar uma variável para armazenar a posição do avatar (posAv)
+- [ ] CONSTRUTOR
+- [x] Layout da Janela (rows e cols)
+- [x] Instanciar as imagens
+- [x] Instanciar o tipoBloco (new int[size))
+- [x] Instanciar o vetor de painéis e os respectivos painéis (new MyPanel[size]) e (panels[i] = new JPanel(icon))
+- [x] Iniciar a posição do avatar em 0
+- [x] Desenhar a posição do avatar em 0 (panels[posAv].setIcon(iconAv))
+- [x] Adicionar um listener de teclado
+- [x] Configurar janela (título - tamanho{ExtendState} - defaultclose - visible)
+- [x] Teclas - vide código abaixo
+- [x] MyPanel - vide código abaixo
+
+```
+
+package mycraft;
+
+import java.awt.Graphics;
+import javax.swing.ImageIcon;
+import javax.swing.JPanel;
+
+public class MyPanel extends JPanel {
+    
+    //atributos
+    private ImageIcon icon;
+
+    public MyPanel(ImageIcon icon) {
+        this.icon = icon;
+    }
+
+    public void setIcon(ImageIcon icon) {
+        this.icon = icon;
+        repaint();
+    }
+    
+    @Override
+    public void paint(Graphics g) {
+        g.drawImage(icon.getImage(),0,0,this.getWidth(),this.getHeight(),null);
+    }
+    
+}
+
+```
+
+```
+@Override
+    public void keyPressed(KeyEvent key) {
+        
+        // movimentações
+        if (key.getKeyCode() == KeyEvent.VK_RIGHT) {
+            panels[posAv].setIcon(getIcon(posAv));
+            posAv++;
+            if (posAv > size-1) posAv = 0;
+            panels[posAv].setIcon(iconAv);
+        }
+        
+        if (key.getKeyCode() == KeyEvent.VK_LEFT) {
+            panels[posAv].setIcon(getIcon(posAv));
+            posAv--;
+            if (posAv < 0) posAv = size-1;
+            panels[posAv].setIcon(iconAv);
+        }
+         
+         if (key.getKeyCode() == KeyEvent.VK_DOWN) {
+            panels[posAv].setIcon(getIcon(posAv));
+            posAv+=20;
+            if (posAv > 399) posAv = posAv - 399;
+            panels[posAv].setIcon(iconAv);
+        }
+        
+         if (key.getKeyCode() == KeyEvent.VK_UP) {
+            panels[posAv].setIcon(getIcon(posAv));
+            posAv-=20;
+            if (posAv < 0) posAv = 399 - (Math.abs(posAv));
+            panels[posAv].setIcon(iconAv);
+        }
+        
+        // construções
+        if (key.getKeyCode() == KeyEvent.VK_1) {
+            panels[posAv].setIcon(icon1);
+            tipoBloco[posAv] = 1;
+            key.setKeyCode(KeyEvent.VK_RIGHT);
+            keyPressed(key);
+        }
+        
+        if (key.getKeyCode() == KeyEvent.VK_2) {
+            panels[posAv].setIcon(icon2);
+            tipoBloco[posAv] = 2;
+            key.setKeyCode(KeyEvent.VK_RIGHT);
+            keyPressed(key);
+        }
+       
+        if (key.getKeyCode() == KeyEvent.VK_3) {
+            panels[posAv].setIcon(icon3);
+            tipoBloco[posAv] = 3;
+            key.setKeyCode(KeyEvent.VK_RIGHT);
+            keyPressed(key);
+        }
+        
+        
+        if (key.getKeyCode() == KeyEvent.VK_4) {
+            panels[posAv].setIcon(icon4);
+            tipoBloco[posAv] = 4;
+            key.setKeyCode(KeyEvent.VK_RIGHT);
+            keyPressed(key);
+        }
+        
+        if (key.getKeyCode() == KeyEvent.VK_SPACE) {
+            panels[posAv].setIcon(icon);
+            tipoBloco[posAv] = 0;
+            key.setKeyCode(KeyEvent.VK_RIGHT);
+            keyPressed(key);
+        }
+    }
+```
+
 
 
