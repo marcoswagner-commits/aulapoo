@@ -162,5 +162,11 @@ public class MyPanel extends JPanel {
     }
 ```
 
+![avatar](https://github.com/marcoswagner-commits/aulapoo/assets/81576640/700e82dd-02f0-45a8-a006-ecee03aa0ce0)
+![bloco_flor](https://github.com/marcoswagner-commits/aulapoo/assets/81576640/de82410b-f472-45cc-8606-e76ba9811a5e)
+![bloco_madeira](https://github.com/marcoswagner-commits/aulapoo/assets/81576640/6f6e2bbe-2604-4574-a673-24b6376c95b7)
+![bloco_terra](https://github.com/marcoswagner-commits/aulapoo/assets/81576640/ec235233-567e-4c72-92dc-ab15d5360fc5)
+![bloco_verde](https://github.com/marcoswagner-commits/aulapoo/assets/81576640/95d3a12d-6e35-4874-a535-ec0fc0442fc2)
+![fundo_azul](https://github.com/marcoswagner-commits/aulapoo/assets/81576640/6cc6e435-3021-4db6-9ac4-ff5c8dafbb07)
 
 
