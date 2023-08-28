@@ -91,6 +91,21 @@ public class MyPanel extends JPanel {
 ```
 
 ```
+ private ImageIcon getIcon(int tipo) {
+        switch(tipoBloco[tipo]) {
+            case 1:
+                return blc1;
+            case 2:
+                return blc2;
+            case 3:
+                return blc3;
+            case 4:
+                return blc4;
+            default:
+                return fundo;
+                
+        }
+    }
 @Override
     public void keyPressed(KeyEvent key) {
         
